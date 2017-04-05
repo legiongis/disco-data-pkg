@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+>
+  <skos:Concept rdf:about="http://www.archesproject.org/be1ac52e-2dc9-4bc2-ae5a-674289a57474">
+    <skos:prefLabel xml:lang="en-US">{"id": "476c48ca-7d15-4391-9b0a-4e460f5235f0", "value": "Spectral Data Acquisition"}</skos:prefLabel>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://www.archesproject.org/8d2bb618-bf65-4bd7-a565-b477694b8cbf">
+        <skos:altLabel xml:lang="en-US">{"id": "840a262e-129c-4a77-9134-4997e2025d99", "value": "XANES/EXAFS"}</skos:altLabel>
+        <skos:prefLabel xml:lang="en-US">{"id": "6793e998-baa3-4897-b655-e715cbb177ee", "value": "X-ray absorption spectroscopy"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.archesproject.org/7b8e4771-2680-4004-9743-40ea78e8c2a9"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://www.archesproject.org/9a2d2977-7e8d-4214-ac74-06485b75b596">
+        <skos:inScheme rdf:resource="http://www.archesproject.org/7b8e4771-2680-4004-9743-40ea78e8c2a9"/>
+        <skos:altLabel xml:lang="en-US">{"id": "6844be48-f19a-467f-aab2-4b90bf1ed51d", "value": "ATR"}</skos:altLabel>
+        <skos:prefLabel xml:lang="en-US">{"id": "480bd5fe-3225-46d7-8ef6-5c29fd4f1214", "value": "Infrared spectroscopy"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://www.archesproject.org/a9881876-595a-49ab-b5fb-f1da4cb45c0d">
+        <skos:prefLabel xml:lang="en-US">{"id": "77184cca-64ed-4d4f-b573-bec17cf0c1aa", "value": "Nuclear magnetic resonance spectroscopy"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.archesproject.org/7b8e4771-2680-4004-9743-40ea78e8c2a9"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://www.archesproject.org/0624d1fd-c8eb-434e-86f0-6bcf7db6fc1f">
+        <skos:prefLabel xml:lang="en-US">{"id": "9c83263e-9ba5-4446-a1d8-3af6de57213a", "value": "Chromatography (GC, LC, IC, EC)"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.archesproject.org/7b8e4771-2680-4004-9743-40ea78e8c2a9"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://www.archesproject.org/ee4f708d-07ab-4287-a192-dff044c32d5a">
+        <skos:inScheme rdf:resource="http://www.archesproject.org/7b8e4771-2680-4004-9743-40ea78e8c2a9"/>
+        <skos:prefLabel xml:lang="en-US">{"id": "bf3b6583-51b9-4fde-9171-1263e092094b", "value": "Scanning Electron Microscope"}</skos:prefLabel>
+        <skos:altLabel xml:lang="en-US">{"id": "2dac6dc5-a17d-4a83-aaf5-7b064249fab2", "value": "SEM"}</skos:altLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://www.archesproject.org/101919cc-47de-422d-97c6-ac356cabc244">
+        <skos:inScheme rdf:resource="http://www.archesproject.org/7b8e4771-2680-4004-9743-40ea78e8c2a9"/>
+        <skos:prefLabel xml:lang="en-US">{"id": "a1d07c1f-95f5-4944-bdb0-a5926edc458b", "value": "Raman spectroscopy"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://www.archesproject.org/de8080ad-f787-42b0-a7c0-96925be3f939">
+        <skos:inScheme rdf:resource="http://www.archesproject.org/7b8e4771-2680-4004-9743-40ea78e8c2a9"/>
+        <skos:prefLabel xml:lang="en-US">{"id": "32672db9-db7d-4b44-8a26-ae6f0403342e", "value": "X-ray diffraction"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://www.archesproject.org/62a52689-265e-4ffb-8212-3007f2158a25">
+        <skos:altLabel xml:lang="en-US">{"id": "d38896ce-5de3-4a29-b1ce-77328ebc57ff", "value": "XPS"}</skos:altLabel>
+        <skos:prefLabel xml:lang="en-US">{"id": "7a8fe6c7-fd8a-4dbb-afaf-ecc4e2c481e5", "value": "X-ray photoelectron spectroscopy"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.archesproject.org/7b8e4771-2680-4004-9743-40ea78e8c2a9"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:inScheme>
+      <skos:ConceptScheme rdf:about="http://www.archesproject.org/7b8e4771-2680-4004-9743-40ea78e8c2a9">
+        <dcterms:title xml:lang="en-US">{"id": "b18048a9-4814-43f0-bb88-99fa22a42fbe", "value": "DISCO"}</dcterms:title>
+        <skos:hasTopConcept rdf:resource="http://www.archesproject.org/95085b73-01e8-4890-baa1-723306e5971f"/>
+        <skos:hasTopConcept rdf:resource="http://www.archesproject.org/5043fc8b-1af1-427c-b196-974b225e7843"/>
+        <skos:hasTopConcept rdf:resource="http://www.archesproject.org/ead615c6-e4e3-450c-8259-14abc1d3e9de"/>
+        <skos:hasTopConcept rdf:resource="http://www.archesproject.org/1d2f5dab-71a2-4844-a265-5bb76a5bcc87"/>
+        <skos:hasTopConcept rdf:resource="http://www.archesproject.org/74ddf62a-f3e6-408c-b767-7c9ce30f4595"/>
+        <skos:hasTopConcept rdf:resource="http://www.archesproject.org/f0cf1b3b-65d6-4981-a013-f044737e72ab"/>
+        <dcterms:description xml:lang="en-US">{"id": "16ea8772-d5dd-481d-91a7-c09703718138", "value": "Concept scheme for managing Data Integration for Conservation Science thesauri"}</dcterms:description>
+        <skos:hasTopConcept rdf:resource="http://www.archesproject.org/484085eb-94cb-4744-b070-8e313a4ee591"/>
+      </skos:ConceptScheme>
+    </skos:inScheme>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://www.archesproject.org/c23409b5-d9a2-4bb5-b7ef-54e45d6431f7">
+        <skos:inScheme rdf:resource="http://www.archesproject.org/7b8e4771-2680-4004-9743-40ea78e8c2a9"/>
+        <skos:prefLabel xml:lang="en-US">{"id": "97ff3753-bfa3-4b82-bfc0-ed7d7c9f5bfa", "value": "X-ray fluorescence spectroscopy"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.archesproject.org/59acee3b-191c-460f-bd1b-9b3db4851bd0">
+    <skos:narrower>
+      <skos:Concept rdf:about="http://www.archesproject.org/74ab1d7e-c14f-4358-8cdf-a73a6dc4d87e">
+        <skos:inScheme rdf:resource="http://www.archesproject.org/7b8e4771-2680-4004-9743-40ea78e8c2a9"/>
+        <skos:prefLabel xml:lang="en-US">{"id": "8ee17363-99be-4968-ab59-12d633ef7efc", "value": "X-ray Images"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://www.archesproject.org/6b344099-ef92-40a4-96a6-6ca619b53dce">
+        <skos:inScheme rdf:resource="http://www.archesproject.org/7b8e4771-2680-4004-9743-40ea78e8c2a9"/>
+        <skos:prefLabel xml:lang="en-US">{"id": "5139b14e-0af6-4900-a7f2-9db1356326f8", "value": "Photomicrographs"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://www.archesproject.org/e4cb4770-5e4b-4ab6-bddb-e8d634842c9e">
+        <skos:inScheme rdf:resource="http://www.archesproject.org/7b8e4771-2680-4004-9743-40ea78e8c2a9"/>
+        <skos:prefLabel xml:lang="en-US">{"id": "b3756c3a-b9b3-43a2-8083-0fea1abbdec8", "value": "Multispectral Imaging Data Cubes"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://www.archesproject.org/92e14ad8-5d3d-4f85-a6b6-7b420848eb9e">
+        <skos:prefLabel xml:lang="en-US">{"id": "1ab91f4e-894a-483e-aed3-36d3cd302db3", "value": "Hyperspectral Imaging Data Cubes"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.archesproject.org/7b8e4771-2680-4004-9743-40ea78e8c2a9"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://www.archesproject.org/1774af36-3e90-4913-a28b-6343126b1031">
+        <skos:inScheme rdf:resource="http://www.archesproject.org/7b8e4771-2680-4004-9743-40ea78e8c2a9"/>
+        <skos:prefLabel xml:lang="en-US">{"id": "1de9ea19-0a46-46a8-bd4e-cd1fcc397e82", "value": "Infrared images"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:scopeNote xml:lang="en-US">{"id": "952148b6-a5df-42e8-b2be-994cde35ed4f", "value": "Instruments designed to acquire data images"}</skos:scopeNote>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://www.archesproject.org/034b3f2a-9b45-4cba-90aa-34c82465a236">
+        <skos:prefLabel xml:lang="en-US">{"id": "37d2f57e-4031-4c03-9190-53c6528d3b68", "value": "Computed Tomography Scan Data Cubes"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.archesproject.org/7b8e4771-2680-4004-9743-40ea78e8c2a9"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:prefLabel xml:lang="en-US">{"id": "099038e8-85ea-4d9b-b856-7fe014d441f0", "value": "Image Acquisition"}</skos:prefLabel>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://www.archesproject.org/94dcc3f1-fea2-4b26-b5cb-7da308da1212">
+        <skos:prefLabel xml:lang="en-US">{"id": "c73daa71-8cfb-4a25-8ec9-366ebb29432f", "value": "Reflectance Transformation Imaging"}</skos:prefLabel>
+        <skos:altLabel xml:lang="en-US">{"id": "945b7954-fb8b-48b3-a3dc-e1da8b731e14", "value": "Polynomial Texture Mapping"}</skos:altLabel>
+        <skos:inScheme rdf:resource="http://www.archesproject.org/7b8e4771-2680-4004-9743-40ea78e8c2a9"/>
+        <skos:altLabel xml:lang="en-US">{"id": "8d2bcbdb-8b5d-4479-a1fc-2e9526af3049", "value": "RTI"}</skos:altLabel>
+        <skos:altLabel xml:lang="en-US">{"id": "af33375c-6ebe-46a9-bc05-2c727cd81c25", "value": "PTI"}</skos:altLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://www.archesproject.org/a5bb38f6-3ab2-41e5-aa5c-5a68507bb022">
+        <skos:inScheme rdf:resource="http://www.archesproject.org/7b8e4771-2680-4004-9743-40ea78e8c2a9"/>
+        <skos:prefLabel xml:lang="en-US">{"id": "0e5c7f7c-e546-40fa-aaa5-b1d29fce74c0", "value": "Atomic Force Microscopy"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://www.archesproject.org/815809e2-78bd-4f60-86cf-557f6b5047c2">
+        <skos:prefLabel xml:lang="en-US">{"id": "633cdea1-d35b-461b-b866-42830fe5e24b", "value": "Ultraviolet (UV) images"}</skos:prefLabel>
+        <skos:altLabel xml:lang="en-US">{"id": "710adafa-c79d-4b13-8538-e50292b46685", "value": "UV Images"}</skos:altLabel>
+        <skos:inScheme rdf:resource="http://www.archesproject.org/7b8e4771-2680-4004-9743-40ea78e8c2a9"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://www.archesproject.org/8df9698f-b273-4c4a-91bf-ddbd6dde0336">
+        <skos:inScheme rdf:resource="http://www.archesproject.org/7b8e4771-2680-4004-9743-40ea78e8c2a9"/>
+        <skos:prefLabel xml:lang="en-US">{"id": "d7012f15-711d-447a-8c9a-71db1eaef8db", "value": "Photography"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:inScheme rdf:resource="http://www.archesproject.org/7b8e4771-2680-4004-9743-40ea78e8c2a9"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.archesproject.org/44572f1e-6ce9-4db7-ba05-bfe9b7c9d274">
+    <skos:inScheme rdf:resource="http://www.archesproject.org/7b8e4771-2680-4004-9743-40ea78e8c2a9"/>
+    <skos:prefLabel xml:lang="en-US">{"id": "51ccb2f2-44e7-4101-a29b-324db12a6229", "value": "X-ray Absorption Spectrometer"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.archesproject.org/74ddf62a-f3e6-408c-b767-7c9ce30f4595">
+    <skos:inScheme rdf:resource="http://www.archesproject.org/7b8e4771-2680-4004-9743-40ea78e8c2a9"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://www.archesproject.org/48748611-316f-43b6-bb8a-4f5b475db619">
+        <skos:inScheme rdf:resource="http://www.archesproject.org/7b8e4771-2680-4004-9743-40ea78e8c2a9"/>
+        <skos:prefLabel xml:lang="en-US">{"id": "5da0b8eb-73c6-49e1-970c-45209ca506e6", "value": "Alternate project name"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://www.archesproject.org/6e4315a2-92fe-4882-bf22-1885cf27d1b4">
+        <skos:prefLabel xml:lang="en-US">{"id": "1697d8ba-8ed7-462b-aec9-f5de61767a62", "value": "Primary project name"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.archesproject.org/7b8e4771-2680-4004-9743-40ea78e8c2a9"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:prefLabel xml:lang="en-US">{"id": "d1e783dc-3c08-4ea0-951e-c3435a353d27", "value": "DISCO Name Types"}</skos:prefLabel>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://www.archesproject.org/8fd1801c-8863-4dae-8d43-91f51b595511">
+        <skos:inScheme rdf:resource="http://www.archesproject.org/7b8e4771-2680-4004-9743-40ea78e8c2a9"/>
+        <skos:prefLabel xml:lang="en-US">{"id": "66745917-5367-4f54-b437-67139ee3ecc5", "value": "Tentative project name"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.archesproject.org/10cc0984-8927-4c9e-9277-fc5ddd6e99a1">
+    <skos:prefLabel xml:lang="en-US">{"id": "44a40a67-ac6c-4333-97fb-83e8d0edb689", "value": "Gas Chromatography/Mass Spectrometer"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://www.archesproject.org/7b8e4771-2680-4004-9743-40ea78e8c2a9"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.archesproject.org/1d2f5dab-71a2-4844-a265-5bb76a5bcc87">
+    <skos:prefLabel xml:lang="en-US">{"id": "b2c2b226-6a4c-4833-b614-c02284546b8c", "value": "DISCO Resource to Resource Relations"}</skos:prefLabel>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://www.archesproject.org/c0197188-62df-4bce-af44-716c4144f9e5">
+        <skos:inScheme rdf:resource="http://www.archesproject.org/7b8e4771-2680-4004-9743-40ea78e8c2a9"/>
+        <skos:prefLabel xml:lang="en-US">{"id": "91f27b3e-ec8b-459d-811d-b9592a3151e7", "value": "Investigated / Was Investigated by"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:inScheme rdf:resource="http://www.archesproject.org/7b8e4771-2680-4004-9743-40ea78e8c2a9"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.archesproject.org/ead615c6-e4e3-450c-8259-14abc1d3e9de">
+    <skos:narrower rdf:resource="http://www.archesproject.org/44572f1e-6ce9-4db7-ba05-bfe9b7c9d274"/>
+    <skos:prefLabel xml:lang="en-US">{"id": "ef3380ad-555e-430c-b8c0-7b0700f76354", "value": "Laboratory Instrument Types"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://www.archesproject.org/7b8e4771-2680-4004-9743-40ea78e8c2a9"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://www.archesproject.org/a883d896-be22-4a85-888a-be91a4ebb19e">
+        <skos:prefLabel xml:lang="en-US">{"id": "ae416782-78ab-4b7c-a94c-5408263a9a58", "value": "Raman Spectrometer"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.archesproject.org/7b8e4771-2680-4004-9743-40ea78e8c2a9"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower rdf:resource="http://www.archesproject.org/10cc0984-8927-4c9e-9277-fc5ddd6e99a1"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://www.archesproject.org/d838261b-d66d-46e2-85d9-56d927b4b81e">
+        <skos:inScheme rdf:resource="http://www.archesproject.org/7b8e4771-2680-4004-9743-40ea78e8c2a9"/>
+        <skos:prefLabel xml:lang="en-US">{"id": "187f9b51-5e5b-4c43-bbc2-cd7805e27483", "value": "Scanning Electron Microscope"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.archesproject.org/5043fc8b-1af1-427c-b196-974b225e7843">
+    <skos:inScheme rdf:resource="http://www.archesproject.org/7b8e4771-2680-4004-9743-40ea78e8c2a9"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://www.archesproject.org/1911e6e5-06f1-4467-8144-4c08ff2dea4d">
+        <skos:prefLabel xml:lang="en-US">{"id": "cf947ce6-d294-4b52-bd9a-6d11fc456cfc", "value": "To do"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.archesproject.org/7b8e4771-2680-4004-9743-40ea78e8c2a9"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://www.archesproject.org/4ff9f6d5-0ce7-4589-99f3-9390a5b7c0af">
+        <skos:inScheme rdf:resource="http://www.archesproject.org/7b8e4771-2680-4004-9743-40ea78e8c2a9"/>
+        <skos:prefLabel xml:lang="en-US">{"id": "7edb1a5c-f6d7-4286-ad5e-5165ce3443f9", "value": "Memo"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://www.archesproject.org/7152e528-62fb-4892-872f-53e13d303873">
+        <skos:inScheme rdf:resource="http://www.archesproject.org/7b8e4771-2680-4004-9743-40ea78e8c2a9"/>
+        <skos:prefLabel xml:lang="en-US">{"id": "549010f1-b6e5-4ae4-8bdb-0ae423de8494", "value": "Lab note"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:prefLabel xml:lang="en-US">{"id": "d0f482a8-99f8-45a9-85df-d196b0078387", "value": "Note Type"}</skos:prefLabel>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://www.archesproject.org/4903ca34-5201-4cc9-a592-0d21215697e7">
+        <skos:prefLabel xml:lang="en-US">{"id": "63bbc884-5937-49b9-a2d8-1b690689d53b", "value": "Observation"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.archesproject.org/7b8e4771-2680-4004-9743-40ea78e8c2a9"/>
+      </skos:Concept>
+    </skos:narrower>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.archesproject.org/f0cf1b3b-65d6-4981-a013-f044737e72ab">
+    <skos:prefLabel xml:lang="en-US">{"id": "c4d209f6-ecbb-4ad3-80a4-31f1a13bb195", "value": "DISCO Project Types"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://www.archesproject.org/7b8e4771-2680-4004-9743-40ea78e8c2a9"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://www.archesproject.org/cb19bd73-a7c4-4611-98aa-1faa5f4d5d60">
+        <skos:inScheme rdf:resource="http://www.archesproject.org/7b8e4771-2680-4004-9743-40ea78e8c2a9"/>
+        <skos:prefLabel xml:lang="en-US">{"id": "64dfeab7-2e25-4e07-901a-54f48ae54a21", "value": "Comparative Study"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://www.archesproject.org/4a819965-5235-471f-8cd4-eb8b8a90fbfb">
+        <skos:inScheme rdf:resource="http://www.archesproject.org/7b8e4771-2680-4004-9743-40ea78e8c2a9"/>
+        <skos:prefLabel xml:lang="en-US">{"id": "5416cf61-1e01-4018-835d-f6e3f0bce8f7", "value": "Research"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://www.archesproject.org/ccb434fd-2367-4d76-b3ab-d9f71fca7484">
+        <skos:prefLabel xml:lang="en-US">{"id": "572f19ef-133d-4a3e-942a-b9c315f4ae9e", "value": "Material Analysis"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.archesproject.org/7b8e4771-2680-4004-9743-40ea78e8c2a9"/>
+      </skos:Concept>
+    </skos:narrower>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.archesproject.org/8673ca9e-06be-4d6c-9ad1-fd4cc4e85973">
+    <skos:prefLabel xml:lang="en-US">{"id": "e14ed443-8a26-4b2f-b85e-c1de3886da7d", "value": "Byzantine"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://www.archesproject.org/7b8e4771-2680-4004-9743-40ea78e8c2a9"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.archesproject.org/484085eb-94cb-4744-b070-8e313a4ee591">
+    <skos:narrower rdf:resource="http://www.archesproject.org/be1ac52e-2dc9-4bc2-ae5a-674289a57474"/>
+    <skos:prefLabel xml:lang="en-US">{"id": "9b402718-9d12-4bd9-a3ff-248306f43e9f", "value": "Dataset Types"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://www.archesproject.org/7b8e4771-2680-4004-9743-40ea78e8c2a9"/>
+    <skos:narrower rdf:resource="http://www.archesproject.org/59acee3b-191c-460f-bd1b-9b3db4851bd0"/>
+    <skos:scopeNote xml:lang="en-US">{"id": "4b3607d7-bb47-499f-9d41-b9152cb2a41a", "value": "Thesaurus of common conservation science dataset types that may be created during a project or investigation"}</skos:scopeNote>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://www.archesproject.org/e99c2f5c-7579-41c2-961d-130c982b7a89">
+        <skos:prefLabel xml:lang="en-US">{"id": "6f620824-0c1f-423b-941d-1918e8ba5cdd", "value": "Physical Property Measurement"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.archesproject.org/7b8e4771-2680-4004-9743-40ea78e8c2a9"/>
+      </skos:Concept>
+    </skos:narrower>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.archesproject.org/ff4cc230-b09b-492a-a556-8b7dded595a5">
+    <skos:inScheme rdf:resource="http://www.archesproject.org/7b8e4771-2680-4004-9743-40ea78e8c2a9"/>
+    <skos:prefLabel xml:lang="en-US">{"id": "36b09165-320f-4420-ac85-076971424348", "value": "Medieval"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.archesproject.org/95085b73-01e8-4890-baa1-723306e5971f">
+    <skos:inScheme rdf:resource="http://www.archesproject.org/7b8e4771-2680-4004-9743-40ea78e8c2a9"/>
+    <skos:narrower rdf:resource="http://www.archesproject.org/8673ca9e-06be-4d6c-9ad1-fd4cc4e85973"/>
+    <skos:narrower rdf:resource="http://www.archesproject.org/ff4cc230-b09b-492a-a556-8b7dded595a5"/>
+    <skos:scopeNote xml:lang="en-US">{"id": "a3b3e4c9-0c07-4c8c-9eb7-370c617dc5e2", "value": "Keyword thesaurus for defining indexing terms similar to those found with a Journal article or abstract"}</skos:scopeNote>
+    <skos:prefLabel xml:lang="en-US">{"id": "b3833da1-fa55-40aa-ade3-3e9b394cefd7", "value": "DISCO Keywords"}</skos:prefLabel>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://www.archesproject.org/4bca1df6-baf7-4a08-b16e-24d522b28695">
+        <skos:inScheme rdf:resource="http://www.archesproject.org/7b8e4771-2680-4004-9743-40ea78e8c2a9"/>
+        <skos:prefLabel xml:lang="en-US">{"id": "1d0c4b90-7dce-4d3c-b15e-0a0e1c354809", "value": "Manuscript"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+  </skos:Concept>
+</rdf:RDF>

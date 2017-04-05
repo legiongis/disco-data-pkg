@@ -1,0 +1,93 @@
+{
+    "DISCO Laboratory Instrument Type": {
+        "44a40a67-ac6c-4333-97fb-83e8d0edb689": "Gas Chromatography/Mass Spectrometer", 
+        "ae416782-78ab-4b7c-a94c-5408263a9a58": "Raman Spectrometer", 
+        "187f9b51-5e5b-4c43-bbc2-cd7805e27483": "Scanning Electron Microscope", 
+        "51ccb2f2-44e7-4101-a29b-324db12a6229": "X-ray Absorption Spectrometer"
+    }, 
+    "Address Type": {
+        "77e31bd2-84d7-406c-a4de-2a6d53fe9693": "Alternative", 
+        "fca22099-63d5-49eb-9e25-702d5efe663c": "Primary"
+    }, 
+    "DISCO Keywords": {
+        "e14ed443-8a26-4b2f-b85e-c1de3886da7d": "Byzantine", 
+        "1d0c4b90-7dce-4d3c-b15e-0a0e1c354809": "Manuscript", 
+        "36b09165-320f-4420-ac85-076971424348": "Medieval"
+    }, 
+    "DISCO Dataset Types": {
+        "6844be48-f19a-467f-aab2-4b90bf1ed51d": "ATR", 
+        "0e5c7f7c-e546-40fa-aaa5-b1d29fce74c0": "Atomic Force Microscopy", 
+        "9c83263e-9ba5-4446-a1d8-3af6de57213a": "Chromatography (GC, LC, IC, EC)", 
+        "37d2f57e-4031-4c03-9190-53c6528d3b68": "Computed Tomography Scan Data Cubes", 
+        "1ab91f4e-894a-483e-aed3-36d3cd302db3": "Hyperspectral Imaging Data Cubes", 
+        "099038e8-85ea-4d9b-b856-7fe014d441f0": "Image Acquisition", 
+        "1de9ea19-0a46-46a8-bd4e-cd1fcc397e82": "Infrared images", 
+        "480bd5fe-3225-46d7-8ef6-5c29fd4f1214": "Infrared spectroscopy", 
+        "952148b6-a5df-42e8-b2be-994cde35ed4f": "Instruments designed to acquire data images", 
+        "b3756c3a-b9b3-43a2-8083-0fea1abbdec8": "Multispectral Imaging Data Cubes", 
+        "77184cca-64ed-4d4f-b573-bec17cf0c1aa": "Nuclear magnetic resonance spectroscopy", 
+        "af33375c-6ebe-46a9-bc05-2c727cd81c25": "PTI", 
+        "d7012f15-711d-447a-8c9a-71db1eaef8db": "Photography", 
+        "5139b14e-0af6-4900-a7f2-9db1356326f8": "Photomicrographs", 
+        "6f620824-0c1f-423b-941d-1918e8ba5cdd": "Physical Property Measurement", 
+        "945b7954-fb8b-48b3-a3dc-e1da8b731e14": "Polynomial Texture Mapping", 
+        "8d2bcbdb-8b5d-4479-a1fc-2e9526af3049": "RTI", 
+        "a1d07c1f-95f5-4944-bdb0-a5926edc458b": "Raman spectroscopy", 
+        "c73daa71-8cfb-4a25-8ec9-366ebb29432f": "Reflectance Transformation Imaging", 
+        "2dac6dc5-a17d-4a83-aaf5-7b064249fab2": "SEM", 
+        "bf3b6583-51b9-4fde-9171-1263e092094b": "Scanning Electron Microscope", 
+        "476c48ca-7d15-4391-9b0a-4e460f5235f0": "Spectral Data Acquisition", 
+        "710adafa-c79d-4b13-8538-e50292b46685": "UV Images", 
+        "633cdea1-d35b-461b-b866-42830fe5e24b": "Ultraviolet (UV) images", 
+        "8ee17363-99be-4968-ab59-12d633ef7efc": "X-ray Images", 
+        "6793e998-baa3-4897-b655-e715cbb177ee": "X-ray absorption spectroscopy", 
+        "32672db9-db7d-4b44-8a26-ae6f0403342e": "X-ray diffraction", 
+        "97ff3753-bfa3-4b82-bfc0-ed7d7c9f5bfa": "X-ray fluorescence spectroscopy", 
+        "7a8fe6c7-fd8a-4dbb-afaf-ecc4e2c481e5": "X-ray photoelectron spectroscopy", 
+        "840a262e-129c-4a77-9134-4997e2025d99": "XANES/EXAFS", 
+        "d38896ce-5de3-4a29-b1ce-77328ebc57ff": "XPS"
+    }, 
+    "DISCO Project Types": {
+        "64dfeab7-2e25-4e07-901a-54f48ae54a21": "Comparative Study", 
+        "572f19ef-133d-4a3e-942a-b9c315f4ae9e": "Material Analysis", 
+        "5416cf61-1e01-4018-835d-f6e3f0bce8f7": "Research"
+    }, 
+    "DISCO Name Types": {
+        "5da0b8eb-73c6-49e1-970c-45209ca506e6": "Alternate project name", 
+        "1697d8ba-8ed7-462b-aec9-f5de61767a62": "Primary project name", 
+        "66745917-5367-4f54-b437-67139ee3ecc5": "Tentative project name"
+    }, 
+    "DISCO Note Type": {
+        "549010f1-b6e5-4ae4-8bdb-0ae423de8494": "Lab note", 
+        "7edb1a5c-f6d7-4286-ad5e-5165ce3443f9": "Memo", 
+        "63bbc884-5937-49b9-a2d8-1b690689d53b": "Observation", 
+        "cf947ce6-d294-4b52-bd9a-6d11fc456cfc": "To do"
+    }, 
+    "Administrative Subdivision Type": {
+        "65d9bdc4-3b80-454b-b951-e8c730b74e81": "Community Plan Area", 
+        "5ad194a8-bf5e-4a06-9dd6-3b94b55f8f1e": "Council District", 
+        "0ffac292-c081-4790-9c69-73cb1ff1c33f": "Neighborhood", 
+        "35ca4dc5-a229-45ea-a2eb-79e586b4a925": "Neighborhood Council"
+    }, 
+    "Geometry Qualifier": {
+        "a54d76df-ab3a-4213-babc-2c23f7884944": "access point", 
+        "462e6f69-0336-46d2-b93f-422021f246c2": "buffer polygon", 
+        "13f40c49-fc82-4d5b-8ba3-b31d97aaf1c8": "center line", 
+        "be9ad0de-efbb-40a3-95e0-17a58183685d": "center point", 
+        "43eebfc6-5f8d-4302-a5f0-2ac20c6f878b": "circumscribed polygon", 
+        "cb8a2933-289e-453b-8f51-e9e10f60c36e": "facade point", 
+        "f1b5d6cc-34c4-4ca0-8b00-53b4fc761f9b": "footprint polygon", 
+        "536b57df-3f2f-4ac2-b50f-cc56c718e2d0": "perimeter polygon", 
+        "559b9a05-b546-474a-9f79-7478a6a14f30": "property line", 
+        "724ac5ab-7f25-4b6d-b24f-a3d5297ecbb6": "site datum point", 
+        "455471fe-c24e-49ca-aee0-c31b6055cff6": "vicinity point"
+    }, 
+    "Spatial Accuraccy": {
+        "f942e508-3761-4f1d-a2ab-e6148e3efab2": "Accurate to 100m", 
+        "a16b2948-baac-40c3-b3fd-eddf9927aad2": "Accurate to 10km", 
+        "44ea86b5-b4b8-40ad-b997-cc8d09a0d999": "Accurate to 10m", 
+        "24f153fc-e404-4ec3-9daf-b6e4b75763d8": "Accurate to 1km", 
+        "725c01ee-f30c-4e08-a284-997c976aaea8": "Accurate to 1m", 
+        "6cc1c3bc-d089-47c7-8659-8c4ae19da0f3": "No data"
+    }
+}
