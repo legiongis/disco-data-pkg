@@ -73,7 +73,7 @@
         {
             "arches_nodeid": "2f8a599f-fa2b-11e6-9e3e-026d961c88e6", 
             "arches_node_name": "Description", 
-            "file_field_name": "", 
+            "file_field_name": "Description", 
             "data_type": "string", 
             "export": false
         }, 
