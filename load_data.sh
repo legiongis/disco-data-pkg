@@ -38,3 +38,7 @@ python manage.py packages -o import_business_data -s $HERPATH/business_data/HER\
 python manage.py packages -o import_business_data -s $HERPATH/business_data/HER\ Information\ Assets.csv -c $HERPATH/business_data/HER\ Information\ Assets.mapping -ow overwrite -bulk
 python manage.py packages -o import_business_data -s $HERPATH/business_data/Assets.csv -c $HERPATH/business_data/Assets.mapping -ow overwrite -bulk
 python manage.py packages -o import_business_data -s $HERPATH/business_data/HER\ Actors_master.csv -c $HERPATH/business_data/HER\ Actors.mapping -ow overwrite -bulk
+
+
+# Load Related Resources
+python manage.py packages -o import_business_data_relations -s $HERPATH/business_data/HER_master.relations
