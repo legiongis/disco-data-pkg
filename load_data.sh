@@ -31,13 +31,14 @@ python manage.py packages -o add_mapbox_layer -j $HERPATH/mapbox_styles/Outdoors
 python manage.py packages -o add_mapbox_layer -j $HERPATH/mapbox_styles/Light/style.json -n "Light Streets" -b
 python manage.py packages -o add_mapbox_layer -j $HERPATH/mapbox_styles/Dark/style.json -n "Dark Streets" -b
 python manage.py packages -o add_mapbox_layer -j $HERPATH/mapbox_styles/Satellite-Streets/style.json -n Satellite_Streets -b
-python manage.py packages -o add_tileserver_layer -m $ARCHESPATH/tilestache/town_plan_3857.xml -n "Lincoln 1886-1998"
+python manage.py packages -o add_tileserver_layer -m $ARCHESPATH/arches/tileserver/town_plan_3857.xml -n "Lincoln 1886-1998"
 
 # Load Business Data
 python manage.py packages -o import_business_data -s $HERPATH/business_data/HER\ Activities_master.csv -c $HERPATH/business_data/HER\ Activities.mapping -ow overwrite -bulk
 python manage.py packages -o import_business_data -s $HERPATH/business_data/HER\ Information\ Assets.csv -c $HERPATH/business_data/HER\ Information\ Assets.mapping -ow overwrite -bulk
 python manage.py packages -o import_business_data -s $HERPATH/business_data/Assets.csv -c $HERPATH/business_data/Assets.mapping -ow overwrite -bulk
 python manage.py packages -o import_business_data -s $HERPATH/business_data/HER\ Actors_master.csv -c $HERPATH/business_data/HER\ Actors.mapping -ow overwrite -bulk
+python manage.py packages -o import_business_data -s $HERPATH/data_export/DISCO\ Project_2017-04-06_15-02-49.json -ow overwrite
 
 
 # Load Related Resources
