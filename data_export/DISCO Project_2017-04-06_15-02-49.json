@@ -1,1 +1,1197 @@
-{"business_data": {"resources": [{"tiles": [{"tiles": {}, "resourceinstance_id": "d49dd794-1a5a-11e7-af19-6c4008b05c4c", "parenttile_id": null, "nodegroup_id": "04f3d514-17c3-11e7-9398-6c4008b05c4c", "sortorder": 0, "data": {"04f3d942-17c3-11e7-af8b-6c4008b05c4c": {"canvasId": "https://data.getty.edu/museum/api/iiif/125588/canvas/main", "attribution": "Provided by The J. Paul Getty Museum", "features": [{"geometry": {"type": "Point", "coordinates": [76.875, -72.625]}, "type": "Feature", "properties": {"type": null, "id": "1aed0d54-12a7-45f4-8bae-b981f3427f93", "name": "St. Mark background"}}], "url": "https://data.getty.edu/museum/api/iiif/261379/info.json", "manifestLabel": "Saint Mark (late 13th century), Unknown", "canvasLabel": "Main Image", "manifestId": "https://data.getty.edu/museum/api/iiif/125588/manifest.json"}}, "tileid": "2a0d712c-56c0-47a6-9f35-d92d798588e5"}, {"tiles": {}, "resourceinstance_id": "d49dd794-1a5a-11e7-af19-6c4008b05c4c", "parenttile_id": null, "nodegroup_id": "84e63a97-1a43-11e7-96c9-6c4008b05c4c", "sortorder": 0, "data": {}, "tileid": "3d265584-ac16-488b-8cbd-4258d818fb34"}, {"tiles": {}, "resourceinstance_id": "d49dd794-1a5a-11e7-af19-6c4008b05c4c", "parenttile_id": null, "nodegroup_id": "80acd314-17c2-11e7-a9eb-6c4008b05c4c", "sortorder": 0, "data": {}, "tileid": "63f9b897-0f1f-4cf3-9bc8-f412da5c1192"}, {"tiles": {}, "resourceinstance_id": "d49dd794-1a5a-11e7-af19-6c4008b05c4c", "parenttile_id": null, "nodegroup_id": "807aa021-17c1-11e7-87a8-6c4008b05c4c", "sortorder": 0, "data": {}, "tileid": "8d9e237d-b4ad-4a04-bfd1-0750f02d34b3"}, {"tiles": {}, "resourceinstance_id": "d49dd794-1a5a-11e7-af19-6c4008b05c4c", "parenttile_id": null, "nodegroup_id": "1e5cc861-18ba-11e7-a75a-6c4008b05c4c", "sortorder": 0, "data": {}, "tileid": "46dccd41-0911-452b-b71a-d75311220290"}, {"tiles": {}, "resourceinstance_id": "d49dd794-1a5a-11e7-af19-6c4008b05c4c", "parenttile_id": "8d9e237d-b4ad-4a04-bfd1-0750f02d34b3", "nodegroup_id": "807a988c-17c1-11e7-a74f-6c4008b05c4c", "sortorder": 0, "data": {"807a988c-17c1-11e7-a74f-6c4008b05c4c": "5416cf61-1e01-4018-835d-f6e3f0bce8f7"}, "tileid": "b98d8d63-a9d4-4236-92b0-50fc93fef9e4"}, {"tiles": {}, "resourceinstance_id": "d49dd794-1a5a-11e7-af19-6c4008b05c4c", "parenttile_id": "8d9e237d-b4ad-4a04-bfd1-0750f02d34b3", "nodegroup_id": "807a9c2e-17c1-11e7-8a4c-6c4008b05c4c", "sortorder": 0, "data": {"807ab6b3-17c1-11e7-961a-6c4008b05c4c": "66745917-5367-4f54-b437-67139ee3ecc5", "807a9c2e-17c1-11e7-8a4c-6c4008b05c4c": "St Mark Illuminated Image Analysis"}, "tileid": "8d5ad83a-f869-49cf-a0ed-115770e5db0f"}, {"tiles": {}, "resourceinstance_id": "d49dd794-1a5a-11e7-af19-6c4008b05c4c", "parenttile_id": "8d9e237d-b4ad-4a04-bfd1-0750f02d34b3", "nodegroup_id": "807aaa47-17c1-11e7-8459-6c4008b05c4c", "sortorder": 0, "data": {"807aaa47-17c1-11e7-8459-6c4008b05c4c": ["1d0c4b90-7dce-4d3c-b15e-0a0e1c354809"]}, "tileid": "8831c5ac-398b-4a36-90fb-951783588aa7"}, {"tiles": {}, "resourceinstance_id": "d49dd794-1a5a-11e7-af19-6c4008b05c4c", "parenttile_id": "63f9b897-0f1f-4cf3-9bc8-f412da5c1192", "nodegroup_id": "80accb80-17c2-11e7-bbe8-6c4008b05c4c", "sortorder": 0, "data": {"80accb80-17c2-11e7-bbe8-6c4008b05c4c": {"type": "FeatureCollection", "features": [{"geometry": {"type": "Point", "coordinates": [-0.5361532405497371, 53.23412529821837]}, "type": "Feature", "id": "d69be94711762a77902def06a436c7af", "properties": {}}]}}, "tileid": "fea10709-ccef-4712-a2ec-e070b2df1529"}, {"tiles": {}, "resourceinstance_id": "d49dd794-1a5a-11e7-af19-6c4008b05c4c", "parenttile_id": "46dccd41-0911-452b-b71a-d75311220290", "nodegroup_id": "1e5cce4f-18ba-11e7-851c-6c4008b05c4c", "sortorder": 0, "data": {"1e5cd8a1-18ba-11e7-ba64-6c4008b05c4c": "Initial instrumentation setup 6/23/16", "1e5cda45-18ba-11e7-8ad1-6c4008b05c4c": "549010f1-b6e5-4ae4-8bdb-0ae423de8494"}, "tileid": "0eb797b9-93e8-469b-b05c-941aa981c3a5"}, {"tiles": {}, "resourceinstance_id": "d49dd794-1a5a-11e7-af19-6c4008b05c4c", "parenttile_id": "3d265584-ac16-488b-8cbd-4258d818fb34", "nodegroup_id": "84e6407a-1a43-11e7-a2c5-6c4008b05c4c", "sortorder": 0, "data": {"84e64f02-1a43-11e7-bdce-6c4008b05c4c": "0e5c7f7c-e546-40fa-aaa5-b1d29fce74c0", "84e64c1e-1a43-11e7-9e85-6c4008b05c4c": "FORS", "84e64d19-1a43-11e7-b9ea-6c4008b05c4c": {"files": [{"status": "uploaded", "index": 0, "upload_time": 1491436337365, "name": "TSR_2002_23_FORS_area3ABS_avg.0.dpt", "url": "/files/uploadedfiles/TSR_2002_23_FORS_area3ABS_avg.0.dpt", "lastModified": 1490128464000, "content": "blob:http://localhost:8000/9bb975e6-9169-4fe6-815e-9aaad787b898", "file_id": "ff162178-1a5a-11e7-a531-6c4008b05c4c", "accepted": true, "type": "", "size": 44133}, {"status": "uploaded", "index": 1, "upload_time": 1491436337366, "name": "TSR_2002_23_FORS_area3REFL_avg.0.dpt", "url": "/files/uploadedfiles/TSR_2002_23_FORS_area3REFL_avg.0.dpt", "lastModified": 1490128472000, "content": "blob:http://localhost:8000/fe77cf71-384c-4530-a644-f74b3b364234", "file_id": "ff1701cf-1a5a-11e7-a4ba-6c4008b05c4c", "accepted": true, "type": "", "size": 42370}, {"status": "uploaded", "index": 2, "upload_time": 1491436337366, "name": "TSR_2002_23_FORS_area13ABS_avg.0.dpt", "url": "/files/uploadedfiles/TSR_2002_23_FORS_area13ABS_avg.0.dpt", "lastModified": 1490128478000, "content": "blob:http://localhost:8000/caa12491-861b-4820-aee3-82612b4ed060", "file_id": "ff175af5-1a5a-11e7-8637-6c4008b05c4c", "accepted": true, "type": "", "size": 43920}, {"status": "uploaded", "index": 3, "upload_time": 1491436337366, "name": "TSR_2002_23_FORS_area13REFL_avg.0.dpt", "url": "/files/uploadedfiles/TSR_2002_23_FORS_area13REFL_avg.0.dpt", "lastModified": 1490128484000, "content": "blob:http://localhost:8000/0768f331-290f-4c98-b4ba-cb6b88e1c7b0", "file_id": "ff17ac8f-1a5a-11e7-817b-6c4008b05c4c", "accepted": true, "type": "", "size": 42370}, {"status": "uploaded", "index": 4, "upload_time": 1491436337367, "name": "TSR_2002_23_FORS_area14ABS_avg.0.dpt", "url": "/files/uploadedfiles/TSR_2002_23_FORS_area14ABS_avg.0.dpt", "lastModified": 1490128488000, "content": "blob:http://localhost:8000/687a9acb-fa85-4a70-beaa-b30d8cc76c0b", "file_id": "ff17fde1-1a5a-11e7-a9c9-6c4008b05c4c", "accepted": true, "type": "", "size": 44145}, {"status": "uploaded", "index": 5, "upload_time": 1491436337367, "name": "TSR_2002_23_FORS_area14REFL_avg.0.dpt", "url": "/files/uploadedfiles/TSR_2002_23_FORS_area14REFL_avg.0.dpt", "lastModified": 1490128494000, "content": "blob:http://localhost:8000/11f27ed6-dcda-4957-a91f-7971ae5051b3", "file_id": "ff1863a3-1a5a-11e7-bf8e-6c4008b05c4c", "accepted": true, "type": "", "size": 42370}, {"status": "uploaded", "index": 6, "upload_time": 1491436337367, "name": "TSR_2002_23_FORS_area15ABS_avg.0.dpt", "url": "/files/uploadedfiles/TSR_2002_23_FORS_area15ABS_avg.0.dpt", "lastModified": 1490128498000, "content": "blob:http://localhost:8000/63e24050-9aa0-444e-8d9f-2adffa360d14", "file_id": "ff18c9c7-1a5a-11e7-bae5-6c4008b05c4c", "accepted": true, "type": "", "size": 44052}, {"status": "uploaded", "index": 7, "upload_time": 1491436337367, "name": "TSR_2002_23_FORS_area15REFL_avg.0.dpt", "url": "/files/uploadedfiles/TSR_2002_23_FORS_area15REFL_avg.0.dpt", "lastModified": 1490128506000, "content": "blob:http://localhost:8000/326ded0b-c848-49d5-ada6-f45566f57f93", "file_id": "ff191b0a-1a5a-11e7-afde-6c4008b05c4c", "accepted": true, "type": "", "size": 42370}], "device": "", "name": "", "description": ""}}, "tileid": "72bea93b-5239-4c27-ba8b-f1829ca5696b"}, {"tiles": {}, "resourceinstance_id": "d49dd794-1a5a-11e7-af19-6c4008b05c4c", "parenttile_id": "3d265584-ac16-488b-8cbd-4258d818fb34", "nodegroup_id": "84e645ae-1a43-11e7-aa19-6c4008b05c4c", "sortorder": 0, "data": {"84e64b1c-1a43-11e7-9454-6c4008b05c4c": "51ccb2f2-44e7-4101-a29b-324db12a6229", "84e6498a-1a43-11e7-9ae4-6c4008b05c4c": "Siemens 123", "84e64e14-1a43-11e7-9540-6c4008b05c4c": null}, "tileid": "21a3a981-b230-49b7-aece-0c3cd076e12b"}], "resourceinstance": {"graph_id": "d41008a1-17ae-11e7-8a22-6c4008b05c4c", "resourceinstanceid": "d49dd794-1a5a-11e7-af19-6c4008b05c4c", "legacyid": null}}, {"tiles": [{"tiles": {}, "resourceinstance_id": "dae68351-1a33-11e7-9175-6c4008b05c4c", "parenttile_id": null, "nodegroup_id": "84e63a97-1a43-11e7-96c9-6c4008b05c4c", "sortorder": 3, "data": {}, "tileid": "849e6252-ac15-423f-860a-54fa0afdf57b"}, {"tiles": {}, "resourceinstance_id": "dae68351-1a33-11e7-9175-6c4008b05c4c", "parenttile_id": null, "nodegroup_id": "1e5cc861-18ba-11e7-a75a-6c4008b05c4c", "sortorder": 0, "data": {}, "tileid": "473cd2f4-a593-4a42-911c-3d570ec55b3d"}, {"tiles": {}, "resourceinstance_id": "dae68351-1a33-11e7-9175-6c4008b05c4c", "parenttile_id": null, "nodegroup_id": "84e63a97-1a43-11e7-96c9-6c4008b05c4c", "sortorder": 1, "data": {}, "tileid": "9ff98899-592e-42f6-92a8-87f92ddc6256"}, {"tiles": {}, "resourceinstance_id": "dae68351-1a33-11e7-9175-6c4008b05c4c", "parenttile_id": null, "nodegroup_id": "b966590f-1988-11e7-b3a1-6c4008b05c4c", "sortorder": 0, "data": {"b9665f6e-1988-11e7-83d2-6c4008b05c4c": "<p>Project Conclusions:</p><ul><li>Sample contains Pb, Cu, trace As</li><li>Consistent with Medieval manuscript illustration pigments</li><li>Iconography and style is notably superb</li></ul><p><br></p><p>Project conclusions reviewed by: K Trentleman</p>", "b966616b-1988-11e7-b759-6c4008b05c4c": [{"status": "uploaded", "index": 0, "name": "TSR_2002_23_SciRpt_D.docx", "url": "/files/uploadedfiles/TSR_2002_23_SciRpt_D.docx", "lastModified": 1471043678000, "content": "blob:http://localhost:8000/d2ff76dc-1e3d-48cc-97fd-9bceb345a048", "file_id": "9813be80-1a46-11e7-9d13-6c4008b05c4c", "accepted": true, "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document", "size": 634241}]}, "tileid": "b41fc351-3c86-473e-9490-78a730b9f88b"}, {"tiles": {}, "resourceinstance_id": "dae68351-1a33-11e7-9175-6c4008b05c4c", "parenttile_id": null, "nodegroup_id": "807aa021-17c1-11e7-87a8-6c4008b05c4c", "sortorder": 0, "data": {}, "tileid": "72b68c80-c531-46a3-ab4e-db62f97d7e41"}, {"tiles": {}, "resourceinstance_id": "dae68351-1a33-11e7-9175-6c4008b05c4c", "parenttile_id": null, "nodegroup_id": "80acd314-17c2-11e7-a9eb-6c4008b05c4c", "sortorder": 0, "data": {}, "tileid": "b9f6ad62-38c5-484a-ae91-b50024883897"}, {"tiles": {}, "resourceinstance_id": "dae68351-1a33-11e7-9175-6c4008b05c4c", "parenttile_id": null, "nodegroup_id": "04f3d514-17c3-11e7-9398-6c4008b05c4c", "sortorder": 0, "data": {"04f3d942-17c3-11e7-af8b-6c4008b05c4c": {"canvasId": "https://data.getty.edu/museum/api/iiif/632/canvas/main", "attribution": "Provided by The J. Paul Getty Museum", "features": [{"geometry": {"type": "Polygon", "coordinates": [[[79.8125, -25.09375], [86.28125, -25.1875], [86.78125, -25.875], [86.53125, -33.59375], [84.75, -34.125], [84.125, -34.625], [80.5625, -35.375], [79.875, -36.375], [79.46875, -35.9375], [79.8125, -25.09375]]]}, "type": "Feature", "properties": {"type": null, "id": "c2c26535-1bbd-4d78-a7cc-52706b462e23", "name": "St. Catherine's Bible"}}], "url": "https://data.getty.edu/museum/api/iiif/5623/info.json", "manifestLabel": "Saint Catherine of Alexandria and Twelve Scenes from Her Life (about 1330), Donato d'Arezzo (Italian (Aretine), active 1315 - about 1340), Gregorio d'Arezzo (Italian (Aretine), active 1315 - about 1340)", "canvasLabel": "Main Image", "manifestId": "https://data.getty.edu/museum/api/iiif/632/manifest.json"}}, "tileid": "d804d6d8-8f03-4665-9f2e-031d1cfc1e2f"}, {"tiles": {}, "resourceinstance_id": "dae68351-1a33-11e7-9175-6c4008b05c4c", "parenttile_id": null, "nodegroup_id": "84e63a97-1a43-11e7-96c9-6c4008b05c4c", "sortorder": 0, "data": {}, "tileid": "e3cf7e74-f9de-462d-87a7-6d21c7560504"}, {"tiles": {}, "resourceinstance_id": "dae68351-1a33-11e7-9175-6c4008b05c4c", "parenttile_id": null, "nodegroup_id": "04f3d514-17c3-11e7-9398-6c4008b05c4c", "sortorder": 0, "data": {"04f3d942-17c3-11e7-af8b-6c4008b05c4c": {"canvasId": "https://data.getty.edu/museum/api/iiif/249995/canvas/main", "attribution": "Provided by The J. Paul Getty Museum", "features": [{"geometry": {"type": "Polygon", "coordinates": [[[54.0625, -47.90625], [52.71875, -48.34375], [52.25, -48.90625], [51.96875, -49.71875], [52.21875, -51.1875], [53.09375, -52.6875], [54.90625, -54.09375], [56.875, -54.0625], [57.65625, -53.25], [58.15625, -52.125], [57.8125, -51.09375], [57.375, -50.28125], [56.75, -49.25], [55.125, -48.34375], [54.0625, -47.90625]]]}, "type": "Feature", "properties": {"type": null, "id": "7e684bc9-8916-4f40-8bc8-c03fd799820c", "name": "Susanna face"}}], "url": "https://data.getty.edu/museum/api/iiif/143172/info.json", "manifestLabel": "Susanna and the Elders (about 1690), Francis van Bossuit (Flemish, 1635 - 1692)", "canvasLabel": "Main Image", "manifestId": "https://data.getty.edu/museum/api/iiif/249995/manifest.json"}}, "tileid": "30247d0c-44ea-4448-9c84-9fb6eabcc013"}, {"tiles": {}, "resourceinstance_id": "dae68351-1a33-11e7-9175-6c4008b05c4c", "parenttile_id": null, "nodegroup_id": "c69e99d1-18be-11e7-961b-6c4008b05c4c", "sortorder": 0, "data": {"c69e9f02-18be-11e7-9036-6c4008b05c4c": "<p>Raman dataset looks really good. &nbsp;We're working on a patch that will allow you to use the RDM SKOS exporter (Tools -&gt; Export Scheme) to export your existing RDM from v3 into a format that v4 can read. &nbsp;Once you've exported your existing concepts, use the v4 RDM to import them.</p><p><br></p>", "c69ea0a6-18be-11e7-9e2a-6c4008b05c4c": [{"status": "uploaded", "index": 0, "name": "TSR_MS70_TechNote_Summary.xlsx", "url": "/files/uploadedfiles/TSR_MS70_TechNote_Summary.xlsx", "lastModified": 1477610262000, "content": "blob:http://localhost:8000/455c6c3e-5e39-4c26-8b7e-1e947211442a", "file_id": "3a6bf4e1-1a36-11e7-b22d-6c4008b05c4c", "accepted": true, "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "size": 567390}]}, "tileid": "b9440724-f11e-43cf-be21-44629d500907"}, {"tiles": {}, "resourceinstance_id": "dae68351-1a33-11e7-9175-6c4008b05c4c", "parenttile_id": null, "nodegroup_id": "81483a11-17bf-11e7-bb23-6c4008b05c4c", "sortorder": 0, "data": {}, "tileid": "e446e2ca-0d67-419e-9190-8208444b33ac"}, {"tiles": {}, "resourceinstance_id": "dae68351-1a33-11e7-9175-6c4008b05c4c", "parenttile_id": null, "nodegroup_id": "84e63a97-1a43-11e7-96c9-6c4008b05c4c", "sortorder": 2, "data": {}, "tileid": "68c58fa2-bafb-4b7e-b2c6-c43ffcc85a83"}, {"tiles": {}, "resourceinstance_id": "dae68351-1a33-11e7-9175-6c4008b05c4c", "parenttile_id": "e446e2ca-0d67-419e-9190-8208444b33ac", "nodegroup_id": "81483f59-17bf-11e7-8e6b-6c4008b05c4c", "sortorder": 0, "data": {"81483f59-17bf-11e7-8e6b-6c4008b05c4c": "Research project to look at remants of paint on an alabaster statuette"}, "tileid": "2c879b61-fceb-4488-a31c-bfb0ece9b9c4"}, {"tiles": {}, "resourceinstance_id": "dae68351-1a33-11e7-9175-6c4008b05c4c", "parenttile_id": "e3cf7e74-f9de-462d-87a7-6d21c7560504", "nodegroup_id": "84e645ae-1a43-11e7-aa19-6c4008b05c4c", "sortorder": 0, "data": {"84e64b1c-1a43-11e7-9454-6c4008b05c4c": null, "84e6498a-1a43-11e7-9ae4-6c4008b05c4c": null, "84e64e14-1a43-11e7-9540-6c4008b05c4c": null}, "tileid": "4eb49b24-e2cf-4737-a038-cdb536cc71a8"}, {"tiles": {}, "resourceinstance_id": "dae68351-1a33-11e7-9175-6c4008b05c4c", "parenttile_id": "e3cf7e74-f9de-462d-87a7-6d21c7560504", "nodegroup_id": "84e6407a-1a43-11e7-a2c5-6c4008b05c4c", "sortorder": 0, "data": {"84e64f02-1a43-11e7-bdce-6c4008b05c4c": null, "84e64c1e-1a43-11e7-9e85-6c4008b05c4c": null, "84e64d19-1a43-11e7-b9ea-6c4008b05c4c": {"files": [{"status": "uploaded", "index": 0, "upload_time": 1491499096336, "name": "TSR_2002_23_FORS_area15REFL_avg.0.dpt", "url": "/files/uploadedfiles/TSR_2002_23_FORS_area15REFL_avg.0_ltH1NSe.dpt", "lastModified": 1490128506000, "content": "blob:http://localhost:8000/4d922a7e-67e5-4ddb-b3ab-66e6760c1292", "file_id": "0722d007-1aed-11e7-a0fe-6c4008b05c4c", "accepted": true, "type": "", "size": 42370}, {"status": "uploaded", "index": 1, "upload_time": 1491499096337, "name": "TSR_2002_23_FORS_area15ABS_avg.0.dpt", "url": "/files/uploadedfiles/TSR_2002_23_FORS_area15ABS_avg.0_5ipiP39.dpt", "lastModified": 1490128498000, "content": "blob:http://localhost:8000/05d09d95-b5d1-488d-a763-3657c7be96f0", "file_id": "07231f85-1aed-11e7-b396-6c4008b05c4c", "accepted": true, "type": "", "size": 44052}, {"status": "uploaded", "index": 2, "upload_time": 1491499096337, "name": "TSR_2002_23_FORS_area14REFL_avg.0.dpt", "url": "/files/uploadedfiles/TSR_2002_23_FORS_area14REFL_avg.0_nCxKt9F.dpt", "lastModified": 1490128494000, "content": "blob:http://localhost:8000/a305f4b1-547c-468a-8eeb-3322e4ed27f7", "file_id": "07237c02-1aed-11e7-a844-6c4008b05c4c", "accepted": true, "type": "", "size": 42370}, {"status": "uploaded", "index": 3, "upload_time": 1491499096338, "name": "TSR_2002_23_FORS_area14ABS_avg.0.dpt", "url": "/files/uploadedfiles/TSR_2002_23_FORS_area14ABS_avg.0_tAL3RAF.dpt", "lastModified": 1490128488000, "content": "blob:http://localhost:8000/1c7fe28b-a0d0-4823-9bc7-ec633f3d43e6", "file_id": "0723dd28-1aed-11e7-8b17-6c4008b05c4c", "accepted": true, "type": "", "size": 44145}, {"status": "uploaded", "index": 4, "upload_time": 1491499096338, "name": "TSR_2002_23_FORS_area13REFL_avg.0.dpt", "url": "/files/uploadedfiles/TSR_2002_23_FORS_area13REFL_avg.0_RWPM0J5.dpt", "lastModified": 1490128484000, "content": "blob:http://localhost:8000/9cde34d4-30ad-4833-8c79-ad5cc999a809", "file_id": "072461dc-1aed-11e7-a76f-6c4008b05c4c", "accepted": true, "type": "", "size": 42370}, {"status": "uploaded", "index": 5, "upload_time": 1491499096339, "name": "TSR_2002_23_FORS_area13ABS_avg.0.dpt", "url": "/files/uploadedfiles/TSR_2002_23_FORS_area13ABS_avg.0_UEG5MqB.dpt", "lastModified": 1490128478000, "content": "blob:http://localhost:8000/ad067e4a-aa91-4dcb-b1b2-d6f3aedcd9f6", "file_id": "0724c673-1aed-11e7-a29a-6c4008b05c4c", "accepted": true, "type": "", "size": 43920}, {"status": "uploaded", "index": 6, "upload_time": 1491499096339, "name": "TSR_2002_23_FORS_area3REFL_avg.0.dpt", "url": "/files/uploadedfiles/TSR_2002_23_FORS_area3REFL_avg.0_It3BySA.dpt", "lastModified": 1490128472000, "content": "blob:http://localhost:8000/5a8a0c4f-a053-4f7f-b376-d1a4df89cc42", "file_id": "07251bae-1aed-11e7-8549-6c4008b05c4c", "accepted": true, "type": "", "size": 42370}, {"status": "uploaded", "index": 7, "upload_time": 1491499096340, "name": "TSR_2002_23_FORS_area3ABS_avg.0.dpt", "url": "/files/uploadedfiles/TSR_2002_23_FORS_area3ABS_avg.0_5f3dbiZ.dpt", "lastModified": 1490128464000, "content": "blob:http://localhost:8000/f9711cc7-bd7e-4919-991f-b15f2e1cbb58", "file_id": "07256b21-1aed-11e7-a6b6-6c4008b05c4c", "accepted": true, "type": "", "size": 44133}], "device": "", "name": "", "description": ""}}, "tileid": "f622fac7-593c-4fa6-a54f-ff8da8b26376"}, {"tiles": {}, "resourceinstance_id": "dae68351-1a33-11e7-9175-6c4008b05c4c", "parenttile_id": "b9f6ad62-38c5-484a-ae91-b50024883897", "nodegroup_id": "80accb80-17c2-11e7-bbe8-6c4008b05c4c", "sortorder": 0, "data": {"80accb80-17c2-11e7-bbe8-6c4008b05c4c": {"type": "FeatureCollection", "features": [{"geometry": {"type": "Point", "coordinates": [-0.5450302526186874, 53.228168733641866]}, "type": "Feature", "id": "45c0747fe55800f3c4d645be73231db3", "properties": {}}]}}, "tileid": "33336ec0-4c5e-4d03-92c5-28498f6b9276"}, {"tiles": {}, "resourceinstance_id": "dae68351-1a33-11e7-9175-6c4008b05c4c", "parenttile_id": "9ff98899-592e-42f6-92a8-87f92ddc6256", "nodegroup_id": "84e645ae-1a43-11e7-aa19-6c4008b05c4c", "sortorder": 0, "data": {"84e64b1c-1a43-11e7-9454-6c4008b05c4c": "51ccb2f2-44e7-4101-a29b-324db12a6229", "84e6498a-1a43-11e7-9ae4-6c4008b05c4c": "Siemens X12", "84e64e14-1a43-11e7-9540-6c4008b05c4c": [{"status": "uploaded", "index": 0, "name": "HER Monuments small.mapping", "url": "/files/uploadedfiles/HER_Monuments_small.mapping", "lastModified": 1489776612000, "content": "blob:http://localhost:8000/36ab1e0c-8b1e-4fce-b1f9-e27d75146f3c", "file_id": "a5daed1c-1a45-11e7-b88f-6c4008b05c4c", "accepted": true, "type": "", "size": 13393}]}, "tileid": "d08c9971-635a-4809-be04-de3142b79b3d"}, {"tiles": {}, "resourceinstance_id": "dae68351-1a33-11e7-9175-6c4008b05c4c", "parenttile_id": "9ff98899-592e-42f6-92a8-87f92ddc6256", "nodegroup_id": "84e6407a-1a43-11e7-a2c5-6c4008b05c4c", "sortorder": 0, "data": {"84e64f02-1a43-11e7-bdce-6c4008b05c4c": "32672db9-db7d-4b44-8a26-ae6f0403342e", "84e64c1e-1a43-11e7-9e85-6c4008b05c4c": "Trial #2", "84e64d19-1a43-11e7-b9ea-6c4008b05c4c": {"files": [{"status": "uploaded", "index": 0, "upload_time": 1491427162211, "name": "TSR_MS70_RM_area13_08.txt", "url": "/files/uploadedfiles/TSR_MS70_RM_area13_08_lqGrwJs.txt", "lastModified": 1449624510000, "content": "blob:http://localhost:8000/29c930b9-d990-4358-afda-211f42faf6a6", "file_id": "a5e5ce75-1a45-11e7-b782-6c4008b05c4c", "accepted": true, "type": "text/plain", "size": 34132}, {"status": "uploaded", "index": 1, "upload_time": 1491427162211, "name": "TSR_MS70_RM_area13_09.txt", "url": "/files/uploadedfiles/TSR_MS70_RM_area13_09_7ka30Mi.txt", "lastModified": 1449624510000, "content": "blob:http://localhost:8000/e4e16970-49a7-4fbb-a19c-44032b8a2f80", "file_id": "a5e6344a-1a45-11e7-8a5a-6c4008b05c4c", "accepted": true, "type": "text/plain", "size": 34217}, {"status": "uploaded", "index": 2, "upload_time": 1491427162212, "name": "TSR_MS70_RM_area13_10.txt", "url": "/files/uploadedfiles/TSR_MS70_RM_area13_10_mhBQhgw.txt", "lastModified": 1449624510000, "content": "blob:http://localhost:8000/00af35fa-899a-4a3d-8858-73027a0d42be", "file_id": "a5e6aa07-1a45-11e7-8e58-6c4008b05c4c", "accepted": true, "type": "text/plain", "size": 34152}, {"status": "uploaded", "index": 3, "upload_time": 1491427162212, "name": "TSR_MS70_RM_area13_11.txt", "url": "/files/uploadedfiles/TSR_MS70_RM_area13_11_Lt7tf7Y.txt", "lastModified": 1449624510000, "content": "blob:http://localhost:8000/09ca56af-86c1-486e-b205-24729cebe0cc", "file_id": "a5e70de1-1a45-11e7-8c9f-6c4008b05c4c", "accepted": true, "type": "text/plain", "size": 34172}, {"status": "uploaded", "index": 4, "upload_time": 1491427162213, "name": "TSR_MS70_RM_area13_12.txt", "url": "/files/uploadedfiles/TSR_MS70_RM_area13_12_CX1S9cs.txt", "lastModified": 1449624510000, "content": "blob:http://localhost:8000/bdd2c7a0-1163-4697-bdc1-1cb3fcbe85fd", "file_id": "a5e75fc0-1a45-11e7-ba83-6c4008b05c4c", "accepted": true, "type": "text/plain", "size": 34170}, {"status": "uploaded", "index": 5, "upload_time": 1491427162213, "name": "TSR_MS70_RM_area15_01.txt", "url": "/files/uploadedfiles/TSR_MS70_RM_area15_01_xu5QcgQ.txt", "lastModified": 1449624510000, "content": "blob:http://localhost:8000/49dfd90b-ff91-4cd2-92c9-dda336ffa296", "file_id": "a5e7b633-1a45-11e7-b87a-6c4008b05c4c", "accepted": true, "type": "text/plain", "size": 34165}], "device": "", "name": "", "description": ""}}, "tileid": "b619a308-dd3e-4a95-8b53-436c178e4bdf"}, {"tiles": {}, "resourceinstance_id": "dae68351-1a33-11e7-9175-6c4008b05c4c", "parenttile_id": "849e6252-ac15-423f-860a-54fa0afdf57b", "nodegroup_id": "84e645ae-1a43-11e7-aa19-6c4008b05c4c", "sortorder": 0, "data": {"84e64b1c-1a43-11e7-9454-6c4008b05c4c": "187f9b51-5e5b-4c43-bbc2-cd7805e27483", "84e6498a-1a43-11e7-9ae4-6c4008b05c4c": "SEM #12", "84e64e14-1a43-11e7-9540-6c4008b05c4c": null}, "tileid": "2b481afc-2ef2-4c26-95e0-5d95bfdcc6d5"}, {"tiles": {}, "resourceinstance_id": "dae68351-1a33-11e7-9175-6c4008b05c4c", "parenttile_id": "849e6252-ac15-423f-860a-54fa0afdf57b", "nodegroup_id": "84e6407a-1a43-11e7-a2c5-6c4008b05c4c", "sortorder": 0, "data": {"84e64f02-1a43-11e7-bdce-6c4008b05c4c": "0e5c7f7c-e546-40fa-aaa5-b1d29fce74c0", "84e64c1e-1a43-11e7-9e85-6c4008b05c4c": "Another Test", "84e64d19-1a43-11e7-b9ea-6c4008b05c4c": {"files": [{"status": "uploaded", "index": 0, "upload_time": 1491499025571, "name": "TSR_MS70_area04.txt", "url": "/files/uploadedfiles/TSR_MS70_area04_9Xz65D6.txt", "lastModified": 1491438846000, "content": "blob:http://localhost:8000/73f8a8ca-0852-4d85-aeb1-9465f4faaf37", "file_id": "e4c09263-1aec-11e7-9d16-6c4008b05c4c", "accepted": true, "type": "text/plain", "size": 40478}], "device": "", "name": "", "description": ""}}, "tileid": "3064072c-12f6-431d-8512-79c33b66d233"}, {"tiles": {}, "resourceinstance_id": "dae68351-1a33-11e7-9175-6c4008b05c4c", "parenttile_id": "72b68c80-c531-46a3-ab4e-db62f97d7e41", "nodegroup_id": "807aaa47-17c1-11e7-8459-6c4008b05c4c", "sortorder": 0, "data": {"807aaa47-17c1-11e7-8459-6c4008b05c4c": ["e14ed443-8a26-4b2f-b85e-c1de3886da7d"]}, "tileid": "71973921-df7d-48ae-a58d-0e11d9278aee"}, {"tiles": {}, "resourceinstance_id": "dae68351-1a33-11e7-9175-6c4008b05c4c", "parenttile_id": "72b68c80-c531-46a3-ab4e-db62f97d7e41", "nodegroup_id": "807a9c2e-17c1-11e7-8a4c-6c4008b05c4c", "sortorder": 0, "data": {"807ab6b3-17c1-11e7-961a-6c4008b05c4c": "66745917-5367-4f54-b437-67139ee3ecc5", "807a9c2e-17c1-11e7-8a4c-6c4008b05c4c": "Susanna and the Elders Initial sculpture investigation "}, "tileid": "e2adbc35-8f61-4f7b-b149-deb0b9d83704"}, {"tiles": {}, "resourceinstance_id": "dae68351-1a33-11e7-9175-6c4008b05c4c", "parenttile_id": "72b68c80-c531-46a3-ab4e-db62f97d7e41", "nodegroup_id": "807a988c-17c1-11e7-a74f-6c4008b05c4c", "sortorder": 0, "data": {"807a988c-17c1-11e7-a74f-6c4008b05c4c": "572f19ef-133d-4a3e-942a-b9c315f4ae9e"}, "tileid": "d98b6df2-6962-4469-9a94-f1b65f90037a"}, {"tiles": {}, "resourceinstance_id": "dae68351-1a33-11e7-9175-6c4008b05c4c", "parenttile_id": "68c58fa2-bafb-4b7e-b2c6-c43ffcc85a83", "nodegroup_id": "84e6407a-1a43-11e7-a2c5-6c4008b05c4c", "sortorder": 0, "data": {"84e64f02-1a43-11e7-bdce-6c4008b05c4c": "a1d07c1f-95f5-4944-bdb0-a5926edc458b", "84e64c1e-1a43-11e7-9e85-6c4008b05c4c": "Catherine's Raman data", "84e64d19-1a43-11e7-b9ea-6c4008b05c4c": {"files": [{"status": "uploaded", "index": 0, "upload_time": 1491426455056, "name": "TSR_MS70_RM_area07_03b.txt", "url": "/files/uploadedfiles/TSR_MS70_RM_area07_03b_Hd8dxVe.txt", "lastModified": 1431475854000, "content": "blob:http://localhost:8000/0cfa0e53-9d98-45ea-97d6-27bfa8eccac9", "file_id": "f0fa530a-1a43-11e7-9d84-6c4008b05c4c", "accepted": true, "type": "text/plain", "size": 34174}, {"status": "uploaded", "index": 1, "upload_time": 1491426455057, "name": "TSR_MS70_RM_area07_04.txt", "url": "/files/uploadedfiles/TSR_MS70_RM_area07_04_aewNKz6.txt", "lastModified": 1431475854000, "content": "blob:http://localhost:8000/d67fa709-bdac-4a7c-b73c-3115993f8bb3", "file_id": "f0faabf3-1a43-11e7-a736-6c4008b05c4c", "accepted": true, "type": "text/plain", "size": 34046}, {"status": "uploaded", "index": 2, "upload_time": 1491426455057, "name": "TSR_MS70_RM_area11_01.txt", "url": "/files/uploadedfiles/TSR_MS70_RM_area11_01_ILPVZ8F.txt", "lastModified": 1431475854000, "content": "blob:http://localhost:8000/d9acfac0-f664-427b-b0b6-a3d9ea2d1715", "file_id": "f0fb0554-1a43-11e7-a435-6c4008b05c4c", "accepted": true, "type": "text/plain", "size": 45331}, {"status": "uploaded", "index": 3, "upload_time": 1491426455057, "name": "TSR_MS70_RM_area11_02.txt", "url": "/files/uploadedfiles/TSR_MS70_RM_area11_02_mmBMZf4.txt", "lastModified": 1431475854000, "content": "blob:http://localhost:8000/4f2677c3-e1fd-458a-a5d9-df94d476d6dc", "file_id": "f0fb674a-1a43-11e7-8515-6c4008b05c4c", "accepted": true, "type": "text/plain", "size": 45339}, {"status": "uploaded", "index": 4, "upload_time": 1491426455057, "name": "TSR_MS70_RM_area11_03.txt", "url": "/files/uploadedfiles/TSR_MS70_RM_area11_03_0nIz9Gu.txt", "lastModified": 1431475854000, "content": "blob:http://localhost:8000/4b9f55b4-0536-4850-84e9-272c9f6615f6", "file_id": "f0fbc368-1a43-11e7-8ed7-6c4008b05c4c", "accepted": true, "type": "text/plain", "size": 45362}, {"status": "uploaded", "index": 5, "upload_time": 1491426455058, "name": "TSR_MS70_RM_area11_04.txt", "url": "/files/uploadedfiles/TSR_MS70_RM_area11_04_b02lYoi.txt", "lastModified": 1431475854000, "content": "blob:http://localhost:8000/46b9063c-d796-4226-8e7d-1926d585c63c", "file_id": "f0fc1a21-1a43-11e7-85b2-6c4008b05c4c", "accepted": true, "type": "text/plain", "size": 45352}, {"status": "uploaded", "index": 6, "upload_time": 1491426455058, "name": "TSR_MS70_RM_area12_01.txt", "url": "/files/uploadedfiles/TSR_MS70_RM_area12_01_W72uvtO.txt", "lastModified": 1431475854000, "content": "blob:http://localhost:8000/0219afd0-5322-4d90-a930-13e7bc690b87", "file_id": "f0fc7421-1a43-11e7-8dc8-6c4008b05c4c", "accepted": true, "type": "text/plain", "size": 45328}, {"status": "uploaded", "index": 7, "upload_time": 1491426455059, "name": "TSR_MS70_RM_area12_02.txt", "url": "/files/uploadedfiles/TSR_MS70_RM_area12_02_JefYq07.txt", "lastModified": 1431475854000, "content": "blob:http://localhost:8000/8c97dcd1-d83c-4807-b810-559b333d025d", "file_id": "f0fcd154-1a43-11e7-a95e-6c4008b05c4c", "accepted": true, "type": "text/plain", "size": 45483}, {"status": "uploaded", "index": 8, "upload_time": 1491426455059, "name": "TSR_MS70_RM_area12_03.txt", "url": "/files/uploadedfiles/TSR_MS70_RM_area12_03_aqOEMQH.txt", "lastModified": 1431475854000, "content": "blob:http://localhost:8000/8f05eb1b-cdb7-426d-94a6-cd87d0197a26", "file_id": "f0fd2a1e-1a43-11e7-bbcc-6c4008b05c4c", "accepted": true, "type": "text/plain", "size": 45310}, {"status": "uploaded", "index": 9, "upload_time": 1491426455059, "name": "TSR_MS70_RM_area14_02.bmp", "url": "/files/uploadedfiles/TSR_MS70_RM_area14_02_zQKrZfW.bmp", "lastModified": 1431462050000, "height": 505, "content": "blob:http://localhost:8000/9cb10e5e-47b0-48d9-91a3-ac942af99dfb", "width": 650, "file_id": "f0fd8130-1a43-11e7-8644-6c4008b05c4c", "accepted": true, "type": "image/bmp", "size": 1313054}], "device": "", "name": "", "description": ""}}, "tileid": "6f4b917a-d2b2-4634-9e90-aaf21002ab72"}, {"tiles": {}, "resourceinstance_id": "dae68351-1a33-11e7-9175-6c4008b05c4c", "parenttile_id": "68c58fa2-bafb-4b7e-b2c6-c43ffcc85a83", "nodegroup_id": "84e645ae-1a43-11e7-aa19-6c4008b05c4c", "sortorder": 0, "data": {"84e64b1c-1a43-11e7-9454-6c4008b05c4c": "ae416782-78ab-4b7c-a94c-5408263a9a58", "84e6498a-1a43-11e7-9ae4-6c4008b05c4c": "Raman Probe 785", "84e64e14-1a43-11e7-9540-6c4008b05c4c": [{"status": "uploaded", "index": 0, "name": "TSR_MS70_TechNote_RMnotes.xlsx", "url": "/files/uploadedfiles/TSR_MS70_TechNote_RMnotes_OS9emeW.xlsx", "lastModified": 1477610844000, "content": "blob:http://localhost:8000/983430f8-72d4-4b30-907a-aaaf5f874ec2", "file_id": "f0ef7dcf-1a43-11e7-b07e-6c4008b05c4c", "accepted": true, "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "size": 18529}]}, "tileid": "ead546fa-9900-4ba8-84e4-89a4fb242b7f"}, {"tiles": {}, "resourceinstance_id": "dae68351-1a33-11e7-9175-6c4008b05c4c", "parenttile_id": "473cd2f4-a593-4a42-911c-3d570ec55b3d", "nodegroup_id": "1e5cce4f-18ba-11e7-851c-6c4008b05c4c", "sortorder": 0, "data": {"1e5cd8a1-18ba-11e7-ba64-6c4008b05c4c": "<p>Need to replace lamp in Raman Probe 785 soon.</p><p>Tested several instrument settings, calibrated on 7/8/2016</p>", "1e5cda45-18ba-11e7-8ad1-6c4008b05c4c": "549010f1-b6e5-4ae4-8bdb-0ae423de8494"}, "tileid": "e91f11be-9b46-4f52-8dda-180e9c05b12f"}, {"tiles": {}, "resourceinstance_id": "dae68351-1a33-11e7-9175-6c4008b05c4c", "parenttile_id": "473cd2f4-a593-4a42-911c-3d570ec55b3d", "nodegroup_id": "1e5cce4f-18ba-11e7-851c-6c4008b05c4c", "sortorder": 0, "data": {"1e5cd8a1-18ba-11e7-ba64-6c4008b05c4c": "<p>Sample looks good; clean, easy to work with.</p><p>Acquired from M. Viscony on July 17, 2016</p>", "1e5cda45-18ba-11e7-8ad1-6c4008b05c4c": "63bbc884-5937-49b9-a2d8-1b690689d53b"}, "tileid": "0669c703-ed59-4bd7-9a3e-88aebb9085f6"}], "resourceinstance": {"graph_id": "d41008a1-17ae-11e7-8a22-6c4008b05c4c", "resourceinstanceid": "dae68351-1a33-11e7-9175-6c4008b05c4c", "legacyid": null}}], "relations": [{"relationshiptype_id": "ac41d9be-79db-4256-b368-2f4559cfbe55", "notes": "", "resourceinstanceidfrom_id": "d49dd794-1a5a-11e7-af19-6c4008b05c4c", "resourceinstanceidto_id": "c6c68ea9-7eb1-4964-b825-733b0129e2a2", "datestarted": null, "resourcexid": "8928649c-1a5c-11e7-ab16-6c4008b05c4c", "dateended": null}, {"relationshiptype_id": "ac41d9be-79db-4256-b368-2f4559cfbe55", "notes": "", "resourceinstanceidfrom_id": "d49dd794-1a5a-11e7-af19-6c4008b05c4c", "resourceinstanceidto_id": "dd734874-6422-4ff8-b895-2f642f9e41ed", "datestarted": null, "resourcexid": "c272e8fa-1a5c-11e7-a5a1-6c4008b05c4c", "dateended": null}, {"relationshiptype_id": "ac41d9be-79db-4256-b368-2f4559cfbe55", "notes": "", "resourceinstanceidfrom_id": "d49dd794-1a5a-11e7-af19-6c4008b05c4c", "resourceinstanceidto_id": "b7acdd0d-d77a-431d-b193-6f42fb11d0f7", "datestarted": null, "resourcexid": "d98b374a-1a5c-11e7-b76d-6c4008b05c4c", "dateended": null}]}}
+{
+  "business_data": {
+    "resources": [
+      {
+        "tiles": [
+          {
+            "tiles": {},
+            "resourceinstance_id": "d49dd794-1a5a-11e7-af19-6c4008b05c4c",
+            "parenttile_id": null,
+            "nodegroup_id": "04f3d514-17c3-11e7-9398-6c4008b05c4c",
+            "sortorder": 0,
+            "data": {
+              "04f3d942-17c3-11e7-af8b-6c4008b05c4c": {
+                "canvasId": "https://data.getty.edu/museum/api/iiif/125588/canvas/main",
+                "attribution": "Provided by The J. Paul Getty Museum",
+                "features": [
+                  {
+                    "geometry": {
+                      "type": "Point",
+                      "coordinates": [
+                        76.875,
+                        -72.625
+                      ]
+                    },
+                    "type": "Feature",
+                    "properties": {
+                      "type": null,
+                      "id": "1aed0d54-12a7-45f4-8bae-b981f3427f93",
+                      "name": "St. Mark background"
+                    }
+                  }
+                ],
+                "url": "https://data.getty.edu/museum/api/iiif/261379/info.json",
+                "manifestLabel": "Saint Mark (late 13th century), Unknown",
+                "canvasLabel": "Main Image",
+                "manifestId": "https://data.getty.edu/museum/api/iiif/125588/manifest.json"
+              }
+            },
+            "tileid": "2a0d712c-56c0-47a6-9f35-d92d798588e5"
+          },
+          {
+            "tiles": {},
+            "resourceinstance_id": "d49dd794-1a5a-11e7-af19-6c4008b05c4c",
+            "parenttile_id": null,
+            "nodegroup_id": "84e63a97-1a43-11e7-96c9-6c4008b05c4c",
+            "sortorder": 0,
+            "data": {},
+            "tileid": "3d265584-ac16-488b-8cbd-4258d818fb34"
+          },
+          {
+            "tiles": {},
+            "resourceinstance_id": "d49dd794-1a5a-11e7-af19-6c4008b05c4c",
+            "parenttile_id": null,
+            "nodegroup_id": "80acd314-17c2-11e7-a9eb-6c4008b05c4c",
+            "sortorder": 0,
+            "data": {},
+            "tileid": "63f9b897-0f1f-4cf3-9bc8-f412da5c1192"
+          },
+          {
+            "tiles": {},
+            "resourceinstance_id": "d49dd794-1a5a-11e7-af19-6c4008b05c4c",
+            "parenttile_id": null,
+            "nodegroup_id": "807aa021-17c1-11e7-87a8-6c4008b05c4c",
+            "sortorder": 0,
+            "data": {},
+            "tileid": "8d9e237d-b4ad-4a04-bfd1-0750f02d34b3"
+          },
+          {
+            "tiles": {},
+            "resourceinstance_id": "d49dd794-1a5a-11e7-af19-6c4008b05c4c",
+            "parenttile_id": null,
+            "nodegroup_id": "1e5cc861-18ba-11e7-a75a-6c4008b05c4c",
+            "sortorder": 0,
+            "data": {},
+            "tileid": "46dccd41-0911-452b-b71a-d75311220290"
+          },
+          {
+            "tiles": {},
+            "resourceinstance_id": "d49dd794-1a5a-11e7-af19-6c4008b05c4c",
+            "parenttile_id": "8d9e237d-b4ad-4a04-bfd1-0750f02d34b3",
+            "nodegroup_id": "807a988c-17c1-11e7-a74f-6c4008b05c4c",
+            "sortorder": 0,
+            "data": {
+              "807a988c-17c1-11e7-a74f-6c4008b05c4c": "5416cf61-1e01-4018-835d-f6e3f0bce8f7"
+            },
+            "tileid": "b98d8d63-a9d4-4236-92b0-50fc93fef9e4"
+          },
+          {
+            "tiles": {},
+            "resourceinstance_id": "d49dd794-1a5a-11e7-af19-6c4008b05c4c",
+            "parenttile_id": "8d9e237d-b4ad-4a04-bfd1-0750f02d34b3",
+            "nodegroup_id": "807a9c2e-17c1-11e7-8a4c-6c4008b05c4c",
+            "sortorder": 0,
+            "data": {
+              "807ab6b3-17c1-11e7-961a-6c4008b05c4c": "66745917-5367-4f54-b437-67139ee3ecc5",
+              "807a9c2e-17c1-11e7-8a4c-6c4008b05c4c": "St Mark Illuminated Image Analysis"
+            },
+            "tileid": "8d5ad83a-f869-49cf-a0ed-115770e5db0f"
+          },
+          {
+            "tiles": {},
+            "resourceinstance_id": "d49dd794-1a5a-11e7-af19-6c4008b05c4c",
+            "parenttile_id": "8d9e237d-b4ad-4a04-bfd1-0750f02d34b3",
+            "nodegroup_id": "807aaa47-17c1-11e7-8459-6c4008b05c4c",
+            "sortorder": 0,
+            "data": {
+              "807aaa47-17c1-11e7-8459-6c4008b05c4c": [
+                "1d0c4b90-7dce-4d3c-b15e-0a0e1c354809"
+              ]
+            },
+            "tileid": "8831c5ac-398b-4a36-90fb-951783588aa7"
+          },
+          {
+            "tiles": {},
+            "resourceinstance_id": "d49dd794-1a5a-11e7-af19-6c4008b05c4c",
+            "parenttile_id": "63f9b897-0f1f-4cf3-9bc8-f412da5c1192",
+            "nodegroup_id": "80accb80-17c2-11e7-bbe8-6c4008b05c4c",
+            "sortorder": 0,
+            "data": {
+              "80accb80-17c2-11e7-bbe8-6c4008b05c4c": {
+                "type": "FeatureCollection",
+                "features": [
+                  {
+                    "geometry": {
+                      "type": "Point",
+                      "coordinates": [
+                        -0.5361532405497371,
+                        53.23412529821837
+                      ]
+                    },
+                    "type": "Feature",
+                    "id": "d69be94711762a77902def06a436c7af",
+                    "properties": {}
+                  }
+                ]
+              }
+            },
+            "tileid": "fea10709-ccef-4712-a2ec-e070b2df1529"
+          },
+          {
+            "tiles": {},
+            "resourceinstance_id": "d49dd794-1a5a-11e7-af19-6c4008b05c4c",
+            "parenttile_id": "46dccd41-0911-452b-b71a-d75311220290",
+            "nodegroup_id": "1e5cce4f-18ba-11e7-851c-6c4008b05c4c",
+            "sortorder": 0,
+            "data": {
+              "1e5cd8a1-18ba-11e7-ba64-6c4008b05c4c": "Initial instrumentation setup 6/23/16",
+              "1e5cda45-18ba-11e7-8ad1-6c4008b05c4c": "549010f1-b6e5-4ae4-8bdb-0ae423de8494"
+            },
+            "tileid": "0eb797b9-93e8-469b-b05c-941aa981c3a5"
+          },
+          {
+            "tiles": {},
+            "resourceinstance_id": "d49dd794-1a5a-11e7-af19-6c4008b05c4c",
+            "parenttile_id": "3d265584-ac16-488b-8cbd-4258d818fb34",
+            "nodegroup_id": "84e6407a-1a43-11e7-a2c5-6c4008b05c4c",
+            "sortorder": 0,
+            "data": {
+              "84e64f02-1a43-11e7-bdce-6c4008b05c4c": "0e5c7f7c-e546-40fa-aaa5-b1d29fce74c0",
+              "84e64c1e-1a43-11e7-9e85-6c4008b05c4c": "FORS",
+              "84e64d19-1a43-11e7-b9ea-6c4008b05c4c": {
+                "files": [
+                  {
+                    "status": "uploaded",
+                    "index": 0,
+                    "upload_time": 1491436337365,
+                    "name": "TSR_2002_23_FORS_area3ABS_avg.0.dpt",
+                    "url": "/files/uploadedfiles/TSR_2002_23_FORS_area3ABS_avg.0.dpt",
+                    "lastModified": 1490128464000,
+                    "content": "blob:http://localhost:8000/9bb975e6-9169-4fe6-815e-9aaad787b898",
+                    "file_id": "ff162178-1a5a-11e7-a531-6c4008b05c4c",
+                    "accepted": true,
+                    "type": "",
+                    "size": 44133
+                  },
+                  {
+                    "status": "uploaded",
+                    "index": 1,
+                    "upload_time": 1491436337366,
+                    "name": "TSR_2002_23_FORS_area3REFL_avg.0.dpt",
+                    "url": "/files/uploadedfiles/TSR_2002_23_FORS_area3REFL_avg.0.dpt",
+                    "lastModified": 1490128472000,
+                    "content": "blob:http://localhost:8000/fe77cf71-384c-4530-a644-f74b3b364234",
+                    "file_id": "ff1701cf-1a5a-11e7-a4ba-6c4008b05c4c",
+                    "accepted": true,
+                    "type": "",
+                    "size": 42370
+                  },
+                  {
+                    "status": "uploaded",
+                    "index": 2,
+                    "upload_time": 1491436337366,
+                    "name": "TSR_2002_23_FORS_area13ABS_avg.0.dpt",
+                    "url": "/files/uploadedfiles/TSR_2002_23_FORS_area13ABS_avg.0.dpt",
+                    "lastModified": 1490128478000,
+                    "content": "blob:http://localhost:8000/caa12491-861b-4820-aee3-82612b4ed060",
+                    "file_id": "ff175af5-1a5a-11e7-8637-6c4008b05c4c",
+                    "accepted": true,
+                    "type": "",
+                    "size": 43920
+                  },
+                  {
+                    "status": "uploaded",
+                    "index": 3,
+                    "upload_time": 1491436337366,
+                    "name": "TSR_2002_23_FORS_area13REFL_avg.0.dpt",
+                    "url": "/files/uploadedfiles/TSR_2002_23_FORS_area13REFL_avg.0.dpt",
+                    "lastModified": 1490128484000,
+                    "content": "blob:http://localhost:8000/0768f331-290f-4c98-b4ba-cb6b88e1c7b0",
+                    "file_id": "ff17ac8f-1a5a-11e7-817b-6c4008b05c4c",
+                    "accepted": true,
+                    "type": "",
+                    "size": 42370
+                  },
+                  {
+                    "status": "uploaded",
+                    "index": 4,
+                    "upload_time": 1491436337367,
+                    "name": "TSR_2002_23_FORS_area14ABS_avg.0.dpt",
+                    "url": "/files/uploadedfiles/TSR_2002_23_FORS_area14ABS_avg.0.dpt",
+                    "lastModified": 1490128488000,
+                    "content": "blob:http://localhost:8000/687a9acb-fa85-4a70-beaa-b30d8cc76c0b",
+                    "file_id": "ff17fde1-1a5a-11e7-a9c9-6c4008b05c4c",
+                    "accepted": true,
+                    "type": "",
+                    "size": 44145
+                  },
+                  {
+                    "status": "uploaded",
+                    "index": 5,
+                    "upload_time": 1491436337367,
+                    "name": "TSR_2002_23_FORS_area14REFL_avg.0.dpt",
+                    "url": "/files/uploadedfiles/TSR_2002_23_FORS_area14REFL_avg.0.dpt",
+                    "lastModified": 1490128494000,
+                    "content": "blob:http://localhost:8000/11f27ed6-dcda-4957-a91f-7971ae5051b3",
+                    "file_id": "ff1863a3-1a5a-11e7-bf8e-6c4008b05c4c",
+                    "accepted": true,
+                    "type": "",
+                    "size": 42370
+                  },
+                  {
+                    "status": "uploaded",
+                    "index": 6,
+                    "upload_time": 1491436337367,
+                    "name": "TSR_2002_23_FORS_area15ABS_avg.0.dpt",
+                    "url": "/files/uploadedfiles/TSR_2002_23_FORS_area15ABS_avg.0.dpt",
+                    "lastModified": 1490128498000,
+                    "content": "blob:http://localhost:8000/63e24050-9aa0-444e-8d9f-2adffa360d14",
+                    "file_id": "ff18c9c7-1a5a-11e7-bae5-6c4008b05c4c",
+                    "accepted": true,
+                    "type": "",
+                    "size": 44052
+                  },
+                  {
+                    "status": "uploaded",
+                    "index": 7,
+                    "upload_time": 1491436337367,
+                    "name": "TSR_2002_23_FORS_area15REFL_avg.0.dpt",
+                    "url": "/files/uploadedfiles/TSR_2002_23_FORS_area15REFL_avg.0.dpt",
+                    "lastModified": 1490128506000,
+                    "content": "blob:http://localhost:8000/326ded0b-c848-49d5-ada6-f45566f57f93",
+                    "file_id": "ff191b0a-1a5a-11e7-afde-6c4008b05c4c",
+                    "accepted": true,
+                    "type": "",
+                    "size": 42370
+                  }
+                ],
+                "device": "",
+                "name": "",
+                "description": ""
+              }
+            },
+            "tileid": "72bea93b-5239-4c27-ba8b-f1829ca5696b"
+          },
+          {
+            "tiles": {},
+            "resourceinstance_id": "d49dd794-1a5a-11e7-af19-6c4008b05c4c",
+            "parenttile_id": "3d265584-ac16-488b-8cbd-4258d818fb34",
+            "nodegroup_id": "84e645ae-1a43-11e7-aa19-6c4008b05c4c",
+            "sortorder": 0,
+            "data": {
+              "84e64b1c-1a43-11e7-9454-6c4008b05c4c": "51ccb2f2-44e7-4101-a29b-324db12a6229",
+              "84e6498a-1a43-11e7-9ae4-6c4008b05c4c": "Siemens 123",
+              "84e64e14-1a43-11e7-9540-6c4008b05c4c": null
+            },
+            "tileid": "21a3a981-b230-49b7-aece-0c3cd076e12b"
+          }
+        ],
+        "resourceinstance": {
+          "graph_id": "d41008a1-17ae-11e7-8a22-6c4008b05c4c",
+          "resourceinstanceid": "d49dd794-1a5a-11e7-af19-6c4008b05c4c",
+          "legacyid": null
+        }
+      },
+      {
+        "tiles": [
+          {
+            "tiles": {},
+            "resourceinstance_id": "dae68351-1a33-11e7-9175-6c4008b05c4c",
+            "parenttile_id": null,
+            "nodegroup_id": "84e63a97-1a43-11e7-96c9-6c4008b05c4c",
+            "sortorder": 3,
+            "data": {},
+            "tileid": "849e6252-ac15-423f-860a-54fa0afdf57b"
+          },
+          {
+            "tiles": {},
+            "resourceinstance_id": "dae68351-1a33-11e7-9175-6c4008b05c4c",
+            "parenttile_id": null,
+            "nodegroup_id": "1e5cc861-18ba-11e7-a75a-6c4008b05c4c",
+            "sortorder": 0,
+            "data": {},
+            "tileid": "473cd2f4-a593-4a42-911c-3d570ec55b3d"
+          },
+          {
+            "tiles": {},
+            "resourceinstance_id": "dae68351-1a33-11e7-9175-6c4008b05c4c",
+            "parenttile_id": null,
+            "nodegroup_id": "84e63a97-1a43-11e7-96c9-6c4008b05c4c",
+            "sortorder": 1,
+            "data": {},
+            "tileid": "9ff98899-592e-42f6-92a8-87f92ddc6256"
+          },
+          {
+            "tiles": {},
+            "resourceinstance_id": "dae68351-1a33-11e7-9175-6c4008b05c4c",
+            "parenttile_id": null,
+            "nodegroup_id": "b966590f-1988-11e7-b3a1-6c4008b05c4c",
+            "sortorder": 0,
+            "data": {
+              "b9665f6e-1988-11e7-83d2-6c4008b05c4c": "<p>Project Conclusions:</p><ul><li>Sample contains Pb, Cu, trace As</li><li>Consistent with Medieval manuscript illustration pigments</li><li>Iconography and style is notably superb</li></ul><p><br></p><p>Project conclusions reviewed by: K Trentleman</p>",
+              "b966616b-1988-11e7-b759-6c4008b05c4c": [
+                {
+                  "status": "uploaded",
+                  "index": 0,
+                  "name": "TSR_2002_23_SciRpt_D.docx",
+                  "url": "/files/uploadedfiles/TSR_2002_23_SciRpt_D.docx",
+                  "lastModified": 1471043678000,
+                  "content": "blob:http://localhost:8000/d2ff76dc-1e3d-48cc-97fd-9bceb345a048",
+                  "file_id": "9813be80-1a46-11e7-9d13-6c4008b05c4c",
+                  "accepted": true,
+                  "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                  "size": 634241
+                }
+              ]
+            },
+            "tileid": "b41fc351-3c86-473e-9490-78a730b9f88b"
+          },
+          {
+            "tiles": {},
+            "resourceinstance_id": "dae68351-1a33-11e7-9175-6c4008b05c4c",
+            "parenttile_id": null,
+            "nodegroup_id": "807aa021-17c1-11e7-87a8-6c4008b05c4c",
+            "sortorder": 0,
+            "data": {},
+            "tileid": "72b68c80-c531-46a3-ab4e-db62f97d7e41"
+          },
+          {
+            "tiles": {},
+            "resourceinstance_id": "dae68351-1a33-11e7-9175-6c4008b05c4c",
+            "parenttile_id": null,
+            "nodegroup_id": "80acd314-17c2-11e7-a9eb-6c4008b05c4c",
+            "sortorder": 0,
+            "data": {},
+            "tileid": "b9f6ad62-38c5-484a-ae91-b50024883897"
+          },
+          {
+            "tiles": {},
+            "resourceinstance_id": "dae68351-1a33-11e7-9175-6c4008b05c4c",
+            "parenttile_id": null,
+            "nodegroup_id": "04f3d514-17c3-11e7-9398-6c4008b05c4c",
+            "sortorder": 0,
+            "data": {
+              "04f3d942-17c3-11e7-af8b-6c4008b05c4c": {
+                "canvasId": "https://data.getty.edu/museum/api/iiif/632/canvas/main",
+                "attribution": "Provided by The J. Paul Getty Museum",
+                "features": [
+                  {
+                    "geometry": {
+                      "type": "Polygon",
+                      "coordinates": [
+                        [
+                          [
+                            79.8125,
+                            -25.09375
+                          ],
+                          [
+                            86.28125,
+                            -25.1875
+                          ],
+                          [
+                            86.78125,
+                            -25.875
+                          ],
+                          [
+                            86.53125,
+                            -33.59375
+                          ],
+                          [
+                            84.75,
+                            -34.125
+                          ],
+                          [
+                            84.125,
+                            -34.625
+                          ],
+                          [
+                            80.5625,
+                            -35.375
+                          ],
+                          [
+                            79.875,
+                            -36.375
+                          ],
+                          [
+                            79.46875,
+                            -35.9375
+                          ],
+                          [
+                            79.8125,
+                            -25.09375
+                          ]
+                        ]
+                      ]
+                    },
+                    "type": "Feature",
+                    "properties": {
+                      "type": null,
+                      "id": "c2c26535-1bbd-4d78-a7cc-52706b462e23",
+                      "name": "St. Catherine's Bible"
+                    }
+                  }
+                ],
+                "url": "https://data.getty.edu/museum/api/iiif/5623/info.json",
+                "manifestLabel": "Saint Catherine of Alexandria and Twelve Scenes from Her Life (about 1330), Donato d'Arezzo (Italian (Aretine), active 1315 - about 1340), Gregorio d'Arezzo (Italian (Aretine), active 1315 - about 1340)",
+                "canvasLabel": "Main Image",
+                "manifestId": "https://data.getty.edu/museum/api/iiif/632/manifest.json"
+              }
+            },
+            "tileid": "d804d6d8-8f03-4665-9f2e-031d1cfc1e2f"
+          },
+          {
+            "tiles": {},
+            "resourceinstance_id": "dae68351-1a33-11e7-9175-6c4008b05c4c",
+            "parenttile_id": null,
+            "nodegroup_id": "84e63a97-1a43-11e7-96c9-6c4008b05c4c",
+            "sortorder": 0,
+            "data": {},
+            "tileid": "e3cf7e74-f9de-462d-87a7-6d21c7560504"
+          },
+          {
+            "tiles": {},
+            "resourceinstance_id": "dae68351-1a33-11e7-9175-6c4008b05c4c",
+            "parenttile_id": null,
+            "nodegroup_id": "04f3d514-17c3-11e7-9398-6c4008b05c4c",
+            "sortorder": 0,
+            "data": {
+              "04f3d942-17c3-11e7-af8b-6c4008b05c4c": {
+                "canvasId": "https://data.getty.edu/museum/api/iiif/249995/canvas/main",
+                "attribution": "Provided by The J. Paul Getty Museum",
+                "features": [
+                  {
+                    "geometry": {
+                      "type": "Polygon",
+                      "coordinates": [
+                        [
+                          [
+                            54.0625,
+                            -47.90625
+                          ],
+                          [
+                            52.71875,
+                            -48.34375
+                          ],
+                          [
+                            52.25,
+                            -48.90625
+                          ],
+                          [
+                            51.96875,
+                            -49.71875
+                          ],
+                          [
+                            52.21875,
+                            -51.1875
+                          ],
+                          [
+                            53.09375,
+                            -52.6875
+                          ],
+                          [
+                            54.90625,
+                            -54.09375
+                          ],
+                          [
+                            56.875,
+                            -54.0625
+                          ],
+                          [
+                            57.65625,
+                            -53.25
+                          ],
+                          [
+                            58.15625,
+                            -52.125
+                          ],
+                          [
+                            57.8125,
+                            -51.09375
+                          ],
+                          [
+                            57.375,
+                            -50.28125
+                          ],
+                          [
+                            56.75,
+                            -49.25
+                          ],
+                          [
+                            55.125,
+                            -48.34375
+                          ],
+                          [
+                            54.0625,
+                            -47.90625
+                          ]
+                        ]
+                      ]
+                    },
+                    "type": "Feature",
+                    "properties": {
+                      "type": null,
+                      "id": "7e684bc9-8916-4f40-8bc8-c03fd799820c",
+                      "name": "Susanna face"
+                    }
+                  }
+                ],
+                "url": "https://data.getty.edu/museum/api/iiif/143172/info.json",
+                "manifestLabel": "Susanna and the Elders (about 1690), Francis van Bossuit (Flemish, 1635 - 1692)",
+                "canvasLabel": "Main Image",
+                "manifestId": "https://data.getty.edu/museum/api/iiif/249995/manifest.json"
+              }
+            },
+            "tileid": "30247d0c-44ea-4448-9c84-9fb6eabcc013"
+          },
+          {
+            "tiles": {},
+            "resourceinstance_id": "dae68351-1a33-11e7-9175-6c4008b05c4c",
+            "parenttile_id": null,
+            "nodegroup_id": "c69e99d1-18be-11e7-961b-6c4008b05c4c",
+            "sortorder": 0,
+            "data": {
+              "c69e9f02-18be-11e7-9036-6c4008b05c4c": "<p>Raman dataset looks really good. &nbsp;We're working on a patch that will allow you to use the RDM SKOS exporter (Tools -&gt; Export Scheme) to export your existing RDM from v3 into a format that v4 can read. &nbsp;Once you've exported your existing concepts, use the v4 RDM to import them.</p><p><br></p>",
+              "c69ea0a6-18be-11e7-9e2a-6c4008b05c4c": [
+                {
+                  "status": "uploaded",
+                  "index": 0,
+                  "name": "TSR_MS70_TechNote_Summary.xlsx",
+                  "url": "/files/uploadedfiles/TSR_MS70_TechNote_Summary.xlsx",
+                  "lastModified": 1477610262000,
+                  "content": "blob:http://localhost:8000/455c6c3e-5e39-4c26-8b7e-1e947211442a",
+                  "file_id": "3a6bf4e1-1a36-11e7-b22d-6c4008b05c4c",
+                  "accepted": true,
+                  "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                  "size": 567390
+                }
+              ]
+            },
+            "tileid": "b9440724-f11e-43cf-be21-44629d500907"
+          },
+          {
+            "tiles": {},
+            "resourceinstance_id": "dae68351-1a33-11e7-9175-6c4008b05c4c",
+            "parenttile_id": null,
+            "nodegroup_id": "81483a11-17bf-11e7-bb23-6c4008b05c4c",
+            "sortorder": 0,
+            "data": {},
+            "tileid": "e446e2ca-0d67-419e-9190-8208444b33ac"
+          },
+          {
+            "tiles": {},
+            "resourceinstance_id": "dae68351-1a33-11e7-9175-6c4008b05c4c",
+            "parenttile_id": null,
+            "nodegroup_id": "84e63a97-1a43-11e7-96c9-6c4008b05c4c",
+            "sortorder": 2,
+            "data": {},
+            "tileid": "68c58fa2-bafb-4b7e-b2c6-c43ffcc85a83"
+          },
+          {
+            "tiles": {},
+            "resourceinstance_id": "dae68351-1a33-11e7-9175-6c4008b05c4c",
+            "parenttile_id": "e446e2ca-0d67-419e-9190-8208444b33ac",
+            "nodegroup_id": "81483f59-17bf-11e7-8e6b-6c4008b05c4c",
+            "sortorder": 0,
+            "data": {
+              "81483f59-17bf-11e7-8e6b-6c4008b05c4c": "Research project to look at remants of paint on an alabaster statuette"
+            },
+            "tileid": "2c879b61-fceb-4488-a31c-bfb0ece9b9c4"
+          },
+          {
+            "tiles": {},
+            "resourceinstance_id": "dae68351-1a33-11e7-9175-6c4008b05c4c",
+            "parenttile_id": "e3cf7e74-f9de-462d-87a7-6d21c7560504",
+            "nodegroup_id": "84e645ae-1a43-11e7-aa19-6c4008b05c4c",
+            "sortorder": 0,
+            "data": {
+              "84e64b1c-1a43-11e7-9454-6c4008b05c4c": null,
+              "84e6498a-1a43-11e7-9ae4-6c4008b05c4c": null,
+              "84e64e14-1a43-11e7-9540-6c4008b05c4c": null
+            },
+            "tileid": "4eb49b24-e2cf-4737-a038-cdb536cc71a8"
+          },
+          {
+            "tiles": {},
+            "resourceinstance_id": "dae68351-1a33-11e7-9175-6c4008b05c4c",
+            "parenttile_id": "e3cf7e74-f9de-462d-87a7-6d21c7560504",
+            "nodegroup_id": "84e6407a-1a43-11e7-a2c5-6c4008b05c4c",
+            "sortorder": 0,
+            "data": {
+              "84e64f02-1a43-11e7-bdce-6c4008b05c4c": null,
+              "84e64c1e-1a43-11e7-9e85-6c4008b05c4c": null,
+              "84e64d19-1a43-11e7-b9ea-6c4008b05c4c": {
+                "files": [
+                  {
+                    "status": "uploaded",
+                    "index": 0,
+                    "upload_time": 1491499096336,
+                    "name": "TSR_2002_23_FORS_area15REFL_avg.0.dpt",
+                    "url": "/files/uploadedfiles/TSR_2002_23_FORS_area15REFL_avg.0_ltH1NSe.dpt",
+                    "lastModified": 1490128506000,
+                    "content": "blob:http://localhost:8000/4d922a7e-67e5-4ddb-b3ab-66e6760c1292",
+                    "file_id": "0722d007-1aed-11e7-a0fe-6c4008b05c4c",
+                    "accepted": true,
+                    "type": "",
+                    "size": 42370
+                  },
+                  {
+                    "status": "uploaded",
+                    "index": 1,
+                    "upload_time": 1491499096337,
+                    "name": "TSR_2002_23_FORS_area15ABS_avg.0.dpt",
+                    "url": "/files/uploadedfiles/TSR_2002_23_FORS_area15ABS_avg.0_5ipiP39.dpt",
+                    "lastModified": 1490128498000,
+                    "content": "blob:http://localhost:8000/05d09d95-b5d1-488d-a763-3657c7be96f0",
+                    "file_id": "07231f85-1aed-11e7-b396-6c4008b05c4c",
+                    "accepted": true,
+                    "type": "",
+                    "size": 44052
+                  },
+                  {
+                    "status": "uploaded",
+                    "index": 2,
+                    "upload_time": 1491499096337,
+                    "name": "TSR_2002_23_FORS_area14REFL_avg.0.dpt",
+                    "url": "/files/uploadedfiles/TSR_2002_23_FORS_area14REFL_avg.0_nCxKt9F.dpt",
+                    "lastModified": 1490128494000,
+                    "content": "blob:http://localhost:8000/a305f4b1-547c-468a-8eeb-3322e4ed27f7",
+                    "file_id": "07237c02-1aed-11e7-a844-6c4008b05c4c",
+                    "accepted": true,
+                    "type": "",
+                    "size": 42370
+                  },
+                  {
+                    "status": "uploaded",
+                    "index": 3,
+                    "upload_time": 1491499096338,
+                    "name": "TSR_2002_23_FORS_area14ABS_avg.0.dpt",
+                    "url": "/files/uploadedfiles/TSR_2002_23_FORS_area14ABS_avg.0_tAL3RAF.dpt",
+                    "lastModified": 1490128488000,
+                    "content": "blob:http://localhost:8000/1c7fe28b-a0d0-4823-9bc7-ec633f3d43e6",
+                    "file_id": "0723dd28-1aed-11e7-8b17-6c4008b05c4c",
+                    "accepted": true,
+                    "type": "",
+                    "size": 44145
+                  },
+                  {
+                    "status": "uploaded",
+                    "index": 4,
+                    "upload_time": 1491499096338,
+                    "name": "TSR_2002_23_FORS_area13REFL_avg.0.dpt",
+                    "url": "/files/uploadedfiles/TSR_2002_23_FORS_area13REFL_avg.0_RWPM0J5.dpt",
+                    "lastModified": 1490128484000,
+                    "content": "blob:http://localhost:8000/9cde34d4-30ad-4833-8c79-ad5cc999a809",
+                    "file_id": "072461dc-1aed-11e7-a76f-6c4008b05c4c",
+                    "accepted": true,
+                    "type": "",
+                    "size": 42370
+                  },
+                  {
+                    "status": "uploaded",
+                    "index": 5,
+                    "upload_time": 1491499096339,
+                    "name": "TSR_2002_23_FORS_area13ABS_avg.0.dpt",
+                    "url": "/files/uploadedfiles/TSR_2002_23_FORS_area13ABS_avg.0_UEG5MqB.dpt",
+                    "lastModified": 1490128478000,
+                    "content": "blob:http://localhost:8000/ad067e4a-aa91-4dcb-b1b2-d6f3aedcd9f6",
+                    "file_id": "0724c673-1aed-11e7-a29a-6c4008b05c4c",
+                    "accepted": true,
+                    "type": "",
+                    "size": 43920
+                  },
+                  {
+                    "status": "uploaded",
+                    "index": 6,
+                    "upload_time": 1491499096339,
+                    "name": "TSR_2002_23_FORS_area3REFL_avg.0.dpt",
+                    "url": "/files/uploadedfiles/TSR_2002_23_FORS_area3REFL_avg.0_It3BySA.dpt",
+                    "lastModified": 1490128472000,
+                    "content": "blob:http://localhost:8000/5a8a0c4f-a053-4f7f-b376-d1a4df89cc42",
+                    "file_id": "07251bae-1aed-11e7-8549-6c4008b05c4c",
+                    "accepted": true,
+                    "type": "",
+                    "size": 42370
+                  },
+                  {
+                    "status": "uploaded",
+                    "index": 7,
+                    "upload_time": 1491499096340,
+                    "name": "TSR_2002_23_FORS_area3ABS_avg.0.dpt",
+                    "url": "/files/uploadedfiles/TSR_2002_23_FORS_area3ABS_avg.0_5f3dbiZ.dpt",
+                    "lastModified": 1490128464000,
+                    "content": "blob:http://localhost:8000/f9711cc7-bd7e-4919-991f-b15f2e1cbb58",
+                    "file_id": "07256b21-1aed-11e7-a6b6-6c4008b05c4c",
+                    "accepted": true,
+                    "type": "",
+                    "size": 44133
+                  }
+                ],
+                "device": "",
+                "name": "",
+                "description": ""
+              }
+            },
+            "tileid": "f622fac7-593c-4fa6-a54f-ff8da8b26376"
+          },
+          {
+            "tiles": {},
+            "resourceinstance_id": "dae68351-1a33-11e7-9175-6c4008b05c4c",
+            "parenttile_id": "b9f6ad62-38c5-484a-ae91-b50024883897",
+            "nodegroup_id": "80accb80-17c2-11e7-bbe8-6c4008b05c4c",
+            "sortorder": 0,
+            "data": {
+              "80accb80-17c2-11e7-bbe8-6c4008b05c4c": {
+                "type": "FeatureCollection",
+                "features": [
+                  {
+                    "geometry": {
+                      "type": "Point",
+                      "coordinates": [
+                        -0.5450302526186874,
+                        53.228168733641866
+                      ]
+                    },
+                    "type": "Feature",
+                    "id": "45c0747fe55800f3c4d645be73231db3",
+                    "properties": {}
+                  }
+                ]
+              }
+            },
+            "tileid": "33336ec0-4c5e-4d03-92c5-28498f6b9276"
+          },
+          {
+            "tiles": {},
+            "resourceinstance_id": "dae68351-1a33-11e7-9175-6c4008b05c4c",
+            "parenttile_id": "9ff98899-592e-42f6-92a8-87f92ddc6256",
+            "nodegroup_id": "84e645ae-1a43-11e7-aa19-6c4008b05c4c",
+            "sortorder": 0,
+            "data": {
+              "84e64b1c-1a43-11e7-9454-6c4008b05c4c": "51ccb2f2-44e7-4101-a29b-324db12a6229",
+              "84e6498a-1a43-11e7-9ae4-6c4008b05c4c": "Siemens X12",
+              "84e64e14-1a43-11e7-9540-6c4008b05c4c": [
+                {
+                  "status": "uploaded",
+                  "index": 0,
+                  "name": "HER Monuments small.mapping",
+                  "url": "/files/uploadedfiles/HER_Monuments_small.mapping",
+                  "lastModified": 1489776612000,
+                  "content": "blob:http://localhost:8000/36ab1e0c-8b1e-4fce-b1f9-e27d75146f3c",
+                  "file_id": "a5daed1c-1a45-11e7-b88f-6c4008b05c4c",
+                  "accepted": true,
+                  "type": "",
+                  "size": 13393
+                }
+              ]
+            },
+            "tileid": "d08c9971-635a-4809-be04-de3142b79b3d"
+          },
+          {
+            "tiles": {},
+            "resourceinstance_id": "dae68351-1a33-11e7-9175-6c4008b05c4c",
+            "parenttile_id": "9ff98899-592e-42f6-92a8-87f92ddc6256",
+            "nodegroup_id": "84e6407a-1a43-11e7-a2c5-6c4008b05c4c",
+            "sortorder": 0,
+            "data": {
+              "84e64f02-1a43-11e7-bdce-6c4008b05c4c": "32672db9-db7d-4b44-8a26-ae6f0403342e",
+              "84e64c1e-1a43-11e7-9e85-6c4008b05c4c": "Trial #2",
+              "84e64d19-1a43-11e7-b9ea-6c4008b05c4c": {
+                "files": [
+                  {
+                    "status": "uploaded",
+                    "index": 0,
+                    "upload_time": 1491427162211,
+                    "name": "TSR_MS70_RM_area13_08.txt",
+                    "url": "/files/uploadedfiles/TSR_MS70_RM_area13_08_lqGrwJs.txt",
+                    "lastModified": 1449624510000,
+                    "content": "blob:http://localhost:8000/29c930b9-d990-4358-afda-211f42faf6a6",
+                    "file_id": "a5e5ce75-1a45-11e7-b782-6c4008b05c4c",
+                    "accepted": true,
+                    "type": "text/plain",
+                    "size": 34132
+                  },
+                  {
+                    "status": "uploaded",
+                    "index": 1,
+                    "upload_time": 1491427162211,
+                    "name": "TSR_MS70_RM_area13_09.txt",
+                    "url": "/files/uploadedfiles/TSR_MS70_RM_area13_09_7ka30Mi.txt",
+                    "lastModified": 1449624510000,
+                    "content": "blob:http://localhost:8000/e4e16970-49a7-4fbb-a19c-44032b8a2f80",
+                    "file_id": "a5e6344a-1a45-11e7-8a5a-6c4008b05c4c",
+                    "accepted": true,
+                    "type": "text/plain",
+                    "size": 34217
+                  },
+                  {
+                    "status": "uploaded",
+                    "index": 2,
+                    "upload_time": 1491427162212,
+                    "name": "TSR_MS70_RM_area13_10.txt",
+                    "url": "/files/uploadedfiles/TSR_MS70_RM_area13_10_mhBQhgw.txt",
+                    "lastModified": 1449624510000,
+                    "content": "blob:http://localhost:8000/00af35fa-899a-4a3d-8858-73027a0d42be",
+                    "file_id": "a5e6aa07-1a45-11e7-8e58-6c4008b05c4c",
+                    "accepted": true,
+                    "type": "text/plain",
+                    "size": 34152
+                  },
+                  {
+                    "status": "uploaded",
+                    "index": 3,
+                    "upload_time": 1491427162212,
+                    "name": "TSR_MS70_RM_area13_11.txt",
+                    "url": "/files/uploadedfiles/TSR_MS70_RM_area13_11_Lt7tf7Y.txt",
+                    "lastModified": 1449624510000,
+                    "content": "blob:http://localhost:8000/09ca56af-86c1-486e-b205-24729cebe0cc",
+                    "file_id": "a5e70de1-1a45-11e7-8c9f-6c4008b05c4c",
+                    "accepted": true,
+                    "type": "text/plain",
+                    "size": 34172
+                  },
+                  {
+                    "status": "uploaded",
+                    "index": 4,
+                    "upload_time": 1491427162213,
+                    "name": "TSR_MS70_RM_area13_12.txt",
+                    "url": "/files/uploadedfiles/TSR_MS70_RM_area13_12_CX1S9cs.txt",
+                    "lastModified": 1449624510000,
+                    "content": "blob:http://localhost:8000/bdd2c7a0-1163-4697-bdc1-1cb3fcbe85fd",
+                    "file_id": "a5e75fc0-1a45-11e7-ba83-6c4008b05c4c",
+                    "accepted": true,
+                    "type": "text/plain",
+                    "size": 34170
+                  },
+                  {
+                    "status": "uploaded",
+                    "index": 5,
+                    "upload_time": 1491427162213,
+                    "name": "TSR_MS70_RM_area15_01.txt",
+                    "url": "/files/uploadedfiles/TSR_MS70_RM_area15_01_xu5QcgQ.txt",
+                    "lastModified": 1449624510000,
+                    "content": "blob:http://localhost:8000/49dfd90b-ff91-4cd2-92c9-dda336ffa296",
+                    "file_id": "a5e7b633-1a45-11e7-b87a-6c4008b05c4c",
+                    "accepted": true,
+                    "type": "text/plain",
+                    "size": 34165
+                  }
+                ],
+                "device": "",
+                "name": "",
+                "description": ""
+              }
+            },
+            "tileid": "b619a308-dd3e-4a95-8b53-436c178e4bdf"
+          },
+          {
+            "tiles": {},
+            "resourceinstance_id": "dae68351-1a33-11e7-9175-6c4008b05c4c",
+            "parenttile_id": "849e6252-ac15-423f-860a-54fa0afdf57b",
+            "nodegroup_id": "84e645ae-1a43-11e7-aa19-6c4008b05c4c",
+            "sortorder": 0,
+            "data": {
+              "84e64b1c-1a43-11e7-9454-6c4008b05c4c": "187f9b51-5e5b-4c43-bbc2-cd7805e27483",
+              "84e6498a-1a43-11e7-9ae4-6c4008b05c4c": "SEM #12",
+              "84e64e14-1a43-11e7-9540-6c4008b05c4c": null
+            },
+            "tileid": "2b481afc-2ef2-4c26-95e0-5d95bfdcc6d5"
+          },
+          {
+            "tiles": {},
+            "resourceinstance_id": "dae68351-1a33-11e7-9175-6c4008b05c4c",
+            "parenttile_id": "849e6252-ac15-423f-860a-54fa0afdf57b",
+            "nodegroup_id": "84e6407a-1a43-11e7-a2c5-6c4008b05c4c",
+            "sortorder": 0,
+            "data": {
+              "84e64f02-1a43-11e7-bdce-6c4008b05c4c": "0e5c7f7c-e546-40fa-aaa5-b1d29fce74c0",
+              "84e64c1e-1a43-11e7-9e85-6c4008b05c4c": "Another Test",
+              "84e64d19-1a43-11e7-b9ea-6c4008b05c4c": {
+                "files": [
+                  {
+                    "status": "uploaded",
+                    "index": 0,
+                    "upload_time": 1491499025571,
+                    "name": "TSR_MS70_area04.txt",
+                    "url": "/files/uploadedfiles/TSR_MS70_area04_9Xz65D6.txt",
+                    "lastModified": 1491438846000,
+                    "content": "blob:http://localhost:8000/73f8a8ca-0852-4d85-aeb1-9465f4faaf37",
+                    "file_id": "e4c09263-1aec-11e7-9d16-6c4008b05c4c",
+                    "accepted": true,
+                    "type": "text/plain",
+                    "size": 40478
+                  }
+                ],
+                "device": "",
+                "name": "",
+                "description": ""
+              }
+            },
+            "tileid": "3064072c-12f6-431d-8512-79c33b66d233"
+          },
+          {
+            "tiles": {},
+            "resourceinstance_id": "dae68351-1a33-11e7-9175-6c4008b05c4c",
+            "parenttile_id": "72b68c80-c531-46a3-ab4e-db62f97d7e41",
+            "nodegroup_id": "807aaa47-17c1-11e7-8459-6c4008b05c4c",
+            "sortorder": 0,
+            "data": {
+              "807aaa47-17c1-11e7-8459-6c4008b05c4c": [
+                "e14ed443-8a26-4b2f-b85e-c1de3886da7d"
+              ]
+            },
+            "tileid": "71973921-df7d-48ae-a58d-0e11d9278aee"
+          },
+          {
+            "tiles": {},
+            "resourceinstance_id": "dae68351-1a33-11e7-9175-6c4008b05c4c",
+            "parenttile_id": "72b68c80-c531-46a3-ab4e-db62f97d7e41",
+            "nodegroup_id": "807a9c2e-17c1-11e7-8a4c-6c4008b05c4c",
+            "sortorder": 0,
+            "data": {
+              "807ab6b3-17c1-11e7-961a-6c4008b05c4c": "66745917-5367-4f54-b437-67139ee3ecc5",
+              "807a9c2e-17c1-11e7-8a4c-6c4008b05c4c": "Susanna and the Elders Initial sculpture investigation "
+            },
+            "tileid": "e2adbc35-8f61-4f7b-b149-deb0b9d83704"
+          },
+          {
+            "tiles": {},
+            "resourceinstance_id": "dae68351-1a33-11e7-9175-6c4008b05c4c",
+            "parenttile_id": "72b68c80-c531-46a3-ab4e-db62f97d7e41",
+            "nodegroup_id": "807a988c-17c1-11e7-a74f-6c4008b05c4c",
+            "sortorder": 0,
+            "data": {
+              "807a988c-17c1-11e7-a74f-6c4008b05c4c": "572f19ef-133d-4a3e-942a-b9c315f4ae9e"
+            },
+            "tileid": "d98b6df2-6962-4469-9a94-f1b65f90037a"
+          },
+          {
+            "tiles": {},
+            "resourceinstance_id": "dae68351-1a33-11e7-9175-6c4008b05c4c",
+            "parenttile_id": "68c58fa2-bafb-4b7e-b2c6-c43ffcc85a83",
+            "nodegroup_id": "84e6407a-1a43-11e7-a2c5-6c4008b05c4c",
+            "sortorder": 0,
+            "data": {
+              "84e64f02-1a43-11e7-bdce-6c4008b05c4c": "a1d07c1f-95f5-4944-bdb0-a5926edc458b",
+              "84e64c1e-1a43-11e7-9e85-6c4008b05c4c": "Catherine's Raman data",
+              "84e64d19-1a43-11e7-b9ea-6c4008b05c4c": {
+                "files": [
+                  {
+                    "status": "uploaded",
+                    "index": 0,
+                    "upload_time": 1491426455056,
+                    "name": "TSR_MS70_RM_area07_03b.txt",
+                    "url": "/files/uploadedfiles/TSR_MS70_RM_area07_03b_Hd8dxVe.txt",
+                    "lastModified": 1431475854000,
+                    "content": "blob:http://localhost:8000/0cfa0e53-9d98-45ea-97d6-27bfa8eccac9",
+                    "file_id": "f0fa530a-1a43-11e7-9d84-6c4008b05c4c",
+                    "accepted": true,
+                    "type": "text/plain",
+                    "size": 34174
+                  },
+                  {
+                    "status": "uploaded",
+                    "index": 1,
+                    "upload_time": 1491426455057,
+                    "name": "TSR_MS70_RM_area07_04.txt",
+                    "url": "/files/uploadedfiles/TSR_MS70_RM_area07_04_aewNKz6.txt",
+                    "lastModified": 1431475854000,
+                    "content": "blob:http://localhost:8000/d67fa709-bdac-4a7c-b73c-3115993f8bb3",
+                    "file_id": "f0faabf3-1a43-11e7-a736-6c4008b05c4c",
+                    "accepted": true,
+                    "type": "text/plain",
+                    "size": 34046
+                  },
+                  {
+                    "status": "uploaded",
+                    "index": 2,
+                    "upload_time": 1491426455057,
+                    "name": "TSR_MS70_RM_area11_01.txt",
+                    "url": "/files/uploadedfiles/TSR_MS70_RM_area11_01_ILPVZ8F.txt",
+                    "lastModified": 1431475854000,
+                    "content": "blob:http://localhost:8000/d9acfac0-f664-427b-b0b6-a3d9ea2d1715",
+                    "file_id": "f0fb0554-1a43-11e7-a435-6c4008b05c4c",
+                    "accepted": true,
+                    "type": "text/plain",
+                    "size": 45331
+                  },
+                  {
+                    "status": "uploaded",
+                    "index": 3,
+                    "upload_time": 1491426455057,
+                    "name": "TSR_MS70_RM_area11_02.txt",
+                    "url": "/files/uploadedfiles/TSR_MS70_RM_area11_02_mmBMZf4.txt",
+                    "lastModified": 1431475854000,
+                    "content": "blob:http://localhost:8000/4f2677c3-e1fd-458a-a5d9-df94d476d6dc",
+                    "file_id": "f0fb674a-1a43-11e7-8515-6c4008b05c4c",
+                    "accepted": true,
+                    "type": "text/plain",
+                    "size": 45339
+                  },
+                  {
+                    "status": "uploaded",
+                    "index": 4,
+                    "upload_time": 1491426455057,
+                    "name": "TSR_MS70_RM_area11_03.txt",
+                    "url": "/files/uploadedfiles/TSR_MS70_RM_area11_03_0nIz9Gu.txt",
+                    "lastModified": 1431475854000,
+                    "content": "blob:http://localhost:8000/4b9f55b4-0536-4850-84e9-272c9f6615f6",
+                    "file_id": "f0fbc368-1a43-11e7-8ed7-6c4008b05c4c",
+                    "accepted": true,
+                    "type": "text/plain",
+                    "size": 45362
+                  },
+                  {
+                    "status": "uploaded",
+                    "index": 5,
+                    "upload_time": 1491426455058,
+                    "name": "TSR_MS70_RM_area11_04.txt",
+                    "url": "/files/uploadedfiles/TSR_MS70_RM_area11_04_b02lYoi.txt",
+                    "lastModified": 1431475854000,
+                    "content": "blob:http://localhost:8000/46b9063c-d796-4226-8e7d-1926d585c63c",
+                    "file_id": "f0fc1a21-1a43-11e7-85b2-6c4008b05c4c",
+                    "accepted": true,
+                    "type": "text/plain",
+                    "size": 45352
+                  },
+                  {
+                    "status": "uploaded",
+                    "index": 6,
+                    "upload_time": 1491426455058,
+                    "name": "TSR_MS70_RM_area12_01.txt",
+                    "url": "/files/uploadedfiles/TSR_MS70_RM_area12_01_W72uvtO.txt",
+                    "lastModified": 1431475854000,
+                    "content": "blob:http://localhost:8000/0219afd0-5322-4d90-a930-13e7bc690b87",
+                    "file_id": "f0fc7421-1a43-11e7-8dc8-6c4008b05c4c",
+                    "accepted": true,
+                    "type": "text/plain",
+                    "size": 45328
+                  },
+                  {
+                    "status": "uploaded",
+                    "index": 7,
+                    "upload_time": 1491426455059,
+                    "name": "TSR_MS70_RM_area12_02.txt",
+                    "url": "/files/uploadedfiles/TSR_MS70_RM_area12_02_JefYq07.txt",
+                    "lastModified": 1431475854000,
+                    "content": "blob:http://localhost:8000/8c97dcd1-d83c-4807-b810-559b333d025d",
+                    "file_id": "f0fcd154-1a43-11e7-a95e-6c4008b05c4c",
+                    "accepted": true,
+                    "type": "text/plain",
+                    "size": 45483
+                  },
+                  {
+                    "status": "uploaded",
+                    "index": 8,
+                    "upload_time": 1491426455059,
+                    "name": "TSR_MS70_RM_area12_03.txt",
+                    "url": "/files/uploadedfiles/TSR_MS70_RM_area12_03_aqOEMQH.txt",
+                    "lastModified": 1431475854000,
+                    "content": "blob:http://localhost:8000/8f05eb1b-cdb7-426d-94a6-cd87d0197a26",
+                    "file_id": "f0fd2a1e-1a43-11e7-bbcc-6c4008b05c4c",
+                    "accepted": true,
+                    "type": "text/plain",
+                    "size": 45310
+                  },
+                  {
+                    "status": "uploaded",
+                    "index": 9,
+                    "upload_time": 1491426455059,
+                    "name": "TSR_MS70_RM_area14_02.bmp",
+                    "url": "/files/uploadedfiles/TSR_MS70_RM_area14_02_zQKrZfW.bmp",
+                    "lastModified": 1431462050000,
+                    "height": 505,
+                    "content": "blob:http://localhost:8000/9cb10e5e-47b0-48d9-91a3-ac942af99dfb",
+                    "width": 650,
+                    "file_id": "f0fd8130-1a43-11e7-8644-6c4008b05c4c",
+                    "accepted": true,
+                    "type": "image/bmp",
+                    "size": 1313054
+                  }
+                ],
+                "device": "",
+                "name": "",
+                "description": ""
+              }
+            },
+            "tileid": "6f4b917a-d2b2-4634-9e90-aaf21002ab72"
+          },
+          {
+            "tiles": {},
+            "resourceinstance_id": "dae68351-1a33-11e7-9175-6c4008b05c4c",
+            "parenttile_id": "68c58fa2-bafb-4b7e-b2c6-c43ffcc85a83",
+            "nodegroup_id": "84e645ae-1a43-11e7-aa19-6c4008b05c4c",
+            "sortorder": 0,
+            "data": {
+              "84e64b1c-1a43-11e7-9454-6c4008b05c4c": "ae416782-78ab-4b7c-a94c-5408263a9a58",
+              "84e6498a-1a43-11e7-9ae4-6c4008b05c4c": "Raman Probe 785",
+              "84e64e14-1a43-11e7-9540-6c4008b05c4c": [
+                {
+                  "status": "uploaded",
+                  "index": 0,
+                  "name": "TSR_MS70_TechNote_RMnotes.xlsx",
+                  "url": "/files/uploadedfiles/TSR_MS70_TechNote_RMnotes_OS9emeW.xlsx",
+                  "lastModified": 1477610844000,
+                  "content": "blob:http://localhost:8000/983430f8-72d4-4b30-907a-aaaf5f874ec2",
+                  "file_id": "f0ef7dcf-1a43-11e7-b07e-6c4008b05c4c",
+                  "accepted": true,
+                  "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                  "size": 18529
+                }
+              ]
+            },
+            "tileid": "ead546fa-9900-4ba8-84e4-89a4fb242b7f"
+          },
+          {
+            "tiles": {},
+            "resourceinstance_id": "dae68351-1a33-11e7-9175-6c4008b05c4c",
+            "parenttile_id": "473cd2f4-a593-4a42-911c-3d570ec55b3d",
+            "nodegroup_id": "1e5cce4f-18ba-11e7-851c-6c4008b05c4c",
+            "sortorder": 0,
+            "data": {
+              "1e5cd8a1-18ba-11e7-ba64-6c4008b05c4c": "<p>Need to replace lamp in Raman Probe 785 soon.</p><p>Tested several instrument settings, calibrated on 7/8/2016</p>",
+              "1e5cda45-18ba-11e7-8ad1-6c4008b05c4c": "549010f1-b6e5-4ae4-8bdb-0ae423de8494"
+            },
+            "tileid": "e91f11be-9b46-4f52-8dda-180e9c05b12f"
+          },
+          {
+            "tiles": {},
+            "resourceinstance_id": "dae68351-1a33-11e7-9175-6c4008b05c4c",
+            "parenttile_id": "473cd2f4-a593-4a42-911c-3d570ec55b3d",
+            "nodegroup_id": "1e5cce4f-18ba-11e7-851c-6c4008b05c4c",
+            "sortorder": 0,
+            "data": {
+              "1e5cd8a1-18ba-11e7-ba64-6c4008b05c4c": "<p>Sample looks good; clean, easy to work with.</p><p>Acquired from M. Viscony on July 17, 2016</p>",
+              "1e5cda45-18ba-11e7-8ad1-6c4008b05c4c": "63bbc884-5937-49b9-a2d8-1b690689d53b"
+            },
+            "tileid": "0669c703-ed59-4bd7-9a3e-88aebb9085f6"
+          }
+        ],
+        "resourceinstance": {
+          "graph_id": "d41008a1-17ae-11e7-8a22-6c4008b05c4c",
+          "resourceinstanceid": "dae68351-1a33-11e7-9175-6c4008b05c4c",
+          "legacyid": null
+        }
+      }
+    ],
+    "relations": [
+      {
+        "relationshiptype_id": "ac41d9be-79db-4256-b368-2f4559cfbe55",
+        "notes": "",
+        "resourceinstanceidfrom_id": "d49dd794-1a5a-11e7-af19-6c4008b05c4c",
+        "resourceinstanceidto_id": "dd734874-6422-4ff8-b895-2f642f9e41ed",
+        "datestarted": null,
+        "resourcexid": "c272e8fa-1a5c-11e7-a5a1-6c4008b05c4c",
+        "dateended": null
+      },
+      {
+        "relationshiptype_id": "ac41d9be-79db-4256-b368-2f4559cfbe55",
+        "notes": "",
+        "resourceinstanceidfrom_id": "d49dd794-1a5a-11e7-af19-6c4008b05c4c",
+        "resourceinstanceidto_id": "b7acdd0d-d77a-431d-b193-6f42fb11d0f7",
+        "datestarted": null,
+        "resourcexid": "d98b374a-1a5c-11e7-b76d-6c4008b05c4c",
+        "dateended": null
+      }
+    ]
+  }
+}
