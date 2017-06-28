@@ -499,7 +499,7 @@
                         ], 
                         "overlayOpacity": 0, 
                         "featurePointSize": "5", 
-                        "geocodeProvider": "MapzenGeocoder", 
+                        "geocodeProvider": "10000000-0000-0000-0000-010000000000", 
                         "zoom": 11.068933439076746, 
                         "label": "", 
                         "featureLineWidth": 1, 
