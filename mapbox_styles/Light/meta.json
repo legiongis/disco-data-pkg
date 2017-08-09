@@ -1,0 +1,6 @@
+{
+    "name": "Light Streets",
+    "basemap": true,
+    "icon": "fa fa-globe",
+    "load": true
+}

@@ -1,0 +1,6 @@
+{
+    "name": "Buildings",
+    "basemap": true,
+    "icon": "fa fa-globe",
+    "load": false
+}

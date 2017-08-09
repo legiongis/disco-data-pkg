@@ -1,0 +1,6 @@
+{
+    "name": "Dark Streets",
+    "basemap": true,
+    "icon": "fa fa-globe",
+    "load": true
+}
