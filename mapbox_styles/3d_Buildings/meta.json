@@ -1,6 +1,6 @@
 {
     "name": "3d Buildings",
-    "basemap": true,
+    "basemap": false,
     "icon": "fa fa-globe",
     "load": true
 }
