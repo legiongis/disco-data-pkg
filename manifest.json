@@ -1,0 +1,30 @@
+{
+    "business_data_directories": [
+        "business_data",
+        "data_export"
+    ],
+    "mapbox_style_directories": [
+        "mapbox_styles"
+    ],
+    "resource_model_directories": [
+        "graphs/resource_models"
+    ],
+    "branch_directories": [
+        "graphs/branches"
+    ],
+    "reference_data_directories": [
+        "reference_data"
+    ],
+    "reference_data_order": [
+        "arches_liverpool_concepts.xml",
+        "DISCO_concepts.xml",
+        "Lincoln_Additional_Schemes.xml",
+        "Lincoln_dm_Type.xml",
+        "Lincoln_HER_Designation_Type.xml",
+        "Lincoln_HER_Period_Type.xml",
+        "Lincoln_Monument_Types_v4.xml",
+        "Lincoln_Recording_Event_Type.xml",
+        "Lincoln_Source_Type.xml",
+        "DISCO_collections.xml"
+    ],
+}
