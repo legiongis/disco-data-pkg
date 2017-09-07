@@ -3385,7 +3385,8 @@
                 "name": "Phase Type Production", 
                 "nodegroup_id": "0dfa2009-fd59-11e6-9e3e-026d961c88e6", 
                 "nodeid": "0dfa2009-fd59-11e6-9e3e-026d961c88e6", 
-                "ontologyclass": "E12_Production"
+                "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E12_Production", 
+                "parentproperty": ""
             }, 
             "subtitle": "Describes Type, Cultural Period, and Time Span for a Find", 
             "version": ""

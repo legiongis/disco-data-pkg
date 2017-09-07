@@ -3654,7 +3654,8 @@
                 "name": "Map Source Classification", 
                 "nodegroup_id": "db175e42-febc-11e6-9e3e-026d961c88e6", 
                 "nodeid": "db175e42-febc-11e6-9e3e-026d961c88e6", 
-                "ontologyclass": "E17_Type_Assignment"
+                "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E17_Type_Assignment", 
+                "parentproperty": ""
             }, 
             "subtitle": "This branch describes prior Historic Landscape Character Area classification by various map sources.", 
             "version": ""

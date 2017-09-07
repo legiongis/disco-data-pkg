@@ -113,7 +113,8 @@
                 "name": "Dataset Intrepretation", 
                 "nodegroup_id": "431ac47d-18bd-11e7-847d-6c4008b05c4c", 
                 "nodeid": "431ac47d-18bd-11e7-847d-6c4008b05c4c", 
-                "ontologyclass": "S5_Inference_Making"
+                "ontologyclass": "http://www.ics.forth.gr/isl/CRMsci/S5_Inference_Making", 
+                "parentproperty": ""
             }, 
             "subtitle": "Dataset results", 
             "version": ""
