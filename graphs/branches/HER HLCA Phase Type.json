@@ -3519,7 +3519,8 @@
                 "name": "Phase Type Production", 
                 "nodegroup_id": "6b74aa40-feca-11e6-9e3e-026d961c88e6", 
                 "nodeid": "6b74aa40-feca-11e6-9e3e-026d961c88e6", 
-                "ontologyclass": "E12_Production"
+                "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E12_Production", 
+                "parentproperty": ""
             }, 
             "subtitle": "Describes time span and type for a Historic Landscape Character Area", 
             "version": ""

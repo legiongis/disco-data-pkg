@@ -231,7 +231,8 @@
                 "name": "Condition Assessment", 
                 "nodegroup_id": "5efd6677-fd54-11e6-9e3e-026d961c88e6", 
                 "nodeid": "5efd6677-fd54-11e6-9e3e-026d961c88e6", 
-                "ontologyclass": "E14_Condition_Assessment"
+                "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E14_Condition_Assessment", 
+                "parentproperty": ""
             }, 
             "subtitle": "Captures conditions, threats, and disturbances affecting a Heritage Resource or Heritage Resource Group", 
             "version": ""

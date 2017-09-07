@@ -2720,7 +2720,8 @@
                 "name": "Actor", 
                 "nodegroup_id": null, 
                 "nodeid": "2f8a59a3-fa2b-11e6-9e3e-026d961c88e6", 
-                "ontologyclass": "E39_Actor"
+                "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E39_Actor", 
+                "parentproperty": ""
             }, 
             "subtitle": "Describes actor resources such as individual people and groups of people. ", 
             "version": ""

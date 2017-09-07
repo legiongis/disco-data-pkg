@@ -2547,7 +2547,8 @@
                 "name": "Activity", 
                 "nodegroup_id": null, 
                 "nodeid": "bbc5cf12-fa16-11e6-9e3e-026d961c88e6", 
-                "ontologyclass": "E7_Activity"
+                "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E7_Activity", 
+                "parentproperty": ""
             }, 
             "subtitle": "Describes activities relating to heritage resources and heritage resource groups.", 
             "version": ""

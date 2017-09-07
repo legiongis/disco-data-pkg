@@ -273,7 +273,8 @@
                 "name": "DISCO Notes", 
                 "nodegroup_id": "87f1efd1-18b8-11e7-acd8-6c4008b05c4c", 
                 "nodeid": "87f1efd1-18b8-11e7-acd8-6c4008b05c4c", 
-                "ontologyclass": "E13_Attribute_Assignment"
+                "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E13_Attribute_Assignment", 
+                "parentproperty": ""
             }, 
             "subtitle": "Digital lab notes, correspondence", 
             "version": ""

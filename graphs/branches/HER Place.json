@@ -890,7 +890,8 @@
                 "name": "Location Description", 
                 "nodegroup_id": "65eeb100-09ad-11e7-96c6-6c4008b05c4c", 
                 "nodeid": "65eeb100-09ad-11e7-96c6-6c4008b05c4c", 
-                "ontologyclass": "E53_Place"
+                "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E53_Place", 
+                "parentproperty": ""
             }, 
             "subtitle": "Place branch for HER Monument Model", 
             "version": ""

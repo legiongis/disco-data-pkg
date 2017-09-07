@@ -3406,7 +3406,8 @@
                 "name": "Code Assignment", 
                 "nodegroup_id": "5c4ba391-fa19-11e6-9e3e-026d961c88e6", 
                 "nodeid": "5c4ba391-fa19-11e6-9e3e-026d961c88e6", 
-                "ontologyclass": "E13_Attribute_Assignment"
+                "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E13_Attribute_Assignment", 
+                "parentproperty": ""
             }, 
             "subtitle": "Generic branch for assigning codes to a resource", 
             "version": ""

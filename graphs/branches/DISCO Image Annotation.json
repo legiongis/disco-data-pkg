@@ -91,7 +91,8 @@
                 "name": "Image Annotation", 
                 "nodegroup_id": "fd6ed3ee-16fe-11e7-be78-6c4008b05c4c", 
                 "nodeid": "fd6ed3ee-16fe-11e7-be78-6c4008b05c4c", 
-                "ontologyclass": "E38_Image"
+                "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E38_Image", 
+                "parentproperty": ""
             }, 
             "subtitle": "IIIF Image annotation", 
             "version": ""

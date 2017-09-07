@@ -738,7 +738,8 @@
                 "name": "Identifiers", 
                 "nodegroup_id": "c84bfcee-09c2-11e7-991c-6c4008b05c4c", 
                 "nodeid": "c84bfcee-09c2-11e7-991c-6c4008b05c4c", 
-                "ontologyclass": "E15_Identifier_Assignment"
+                "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E15_Identifier_Assignment", 
+                "parentproperty": ""
             }, 
             "subtitle": "Asset identifiers", 
             "version": ""

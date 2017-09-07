@@ -3105,7 +3105,8 @@
                 "name": "Top Node", 
                 "nodegroup_id": null, 
                 "nodeid": "d41004cc-17ae-11e7-8b69-6c4008b05c4c", 
-                "ontologyclass": "E7_Activity"
+                "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E7_Activity", 
+                "parentproperty": ""
             }, 
             "subtitle": "Conservation Science Project", 
             "version": ""

@@ -1775,7 +1775,8 @@
                 "name": "Right", 
                 "nodegroup_id": "f7941164-fa10-11e6-9e3e-026d961c88e6", 
                 "nodeid": "f7941164-fa10-11e6-9e3e-026d961c88e6", 
-                "ontologyclass": "E30_Right"
+                "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E30_Right", 
+                "parentproperty": ""
             }, 
             "subtitle": "Captures information about special status, protection, or privileges afforded under law.", 
             "version": ""
