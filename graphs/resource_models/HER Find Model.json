@@ -4,108 +4,104 @@
             "subtitle": "Describes HER Finds", 
             "functions_x_graphs": [
                 {
+                    "graph_id": "3af584c3-fd4d-11e6-9e3e-026d961c88e6", 
+                    "function_id": "60000000-0000-0000-0000-000000000001", 
                     "config": {
                         "map_popup": {
-                            "nodegroup_id": "ce6e367d-fd4d-11e6-9e3e-026d961c88e6", 
-                            "string_template": "<Description>"
+                            "string_template": "<Description>", 
+                            "nodegroup_id": "ce6e367d-fd4d-11e6-9e3e-026d961c88e6"
                         }, 
                         "description": {
-                            "nodegroup_id": "ce6e367d-fd4d-11e6-9e3e-026d961c88e6", 
-                            "string_template": "<Description>"
+                            "string_template": "<Description>", 
+                            "nodegroup_id": "ce6e367d-fd4d-11e6-9e3e-026d961c88e6"
                         }, 
                         "triggering_nodegroups": [], 
                         "name": {
-                            "nodegroup_id": "b712af77-fd4d-11e6-9e3e-026d961c88e6", 
-                            "string_template": "<Name>"
+                            "string_template": "<Name>", 
+                            "nodegroup_id": "b712af77-fd4d-11e6-9e3e-026d961c88e6"
                         }
                     }, 
-                    "function_id": "60000000-0000-0000-0000-000000000001", 
-                    "graph_id": "3af584c3-fd4d-11e6-9e3e-026d961c88e6", 
                     "id": "24a6fb02-0f71-11e7-aa99-6c4008b05c4c"
                 }
             ], 
             "isresource": true, 
             "forms_x_cards": [
                 {
+                    "sortorder": 0, 
                     "card_id": "6b5d6a35-fd4d-11e6-9e3e-026d961c88e6", 
-                    "id": "747a94a8-0f70-11e7-8c61-6c4008b05c4c", 
                     "form_id": "67d58ace-053f-11e7-9e3e-026d961c88e6", 
-                    "sortorder": 0
+                    "id": "747a94a8-0f70-11e7-8c61-6c4008b05c4c"
                 }, 
                 {
+                    "sortorder": 0, 
                     "card_id": "ce6e367f-fd4d-11e6-9e3e-026d961c88e6", 
-                    "id": "84f8a50f-0f70-11e7-bd39-6c4008b05c4c", 
                     "form_id": "80b1424a-053f-11e7-9e3e-026d961c88e6", 
-                    "sortorder": 0
+                    "id": "84f8a50f-0f70-11e7-bd39-6c4008b05c4c"
                 }, 
                 {
+                    "sortorder": 1, 
                     "card_id": "26243e41-fd58-11e6-9e3e-026d961c88e6", 
-                    "id": "84f8d9d7-0f70-11e7-9cf0-6c4008b05c4c", 
                     "form_id": "80b1424a-053f-11e7-9e3e-026d961c88e6", 
-                    "sortorder": 1
+                    "id": "84f8d9d7-0f70-11e7-9cf0-6c4008b05c4c"
                 }, 
                 {
+                    "sortorder": 2, 
                     "card_id": "d61f087f-fd4f-11e6-9e3e-026d961c88e6", 
-                    "id": "84f90cd9-0f70-11e7-a856-6c4008b05c4c", 
                     "form_id": "80b1424a-053f-11e7-9e3e-026d961c88e6", 
-                    "sortorder": 2
+                    "id": "84f90cd9-0f70-11e7-a856-6c4008b05c4c"
                 }, 
                 {
+                    "sortorder": 3, 
                     "card_id": "2d1d08cb-fd4f-11e6-9e3e-026d961c88e6", 
-                    "id": "84f942cc-0f70-11e7-b4b5-6c4008b05c4c", 
                     "form_id": "80b1424a-053f-11e7-9e3e-026d961c88e6", 
-                    "sortorder": 3
+                    "id": "84f942cc-0f70-11e7-b4b5-6c4008b05c4c"
                 }, 
                 {
+                    "sortorder": 0, 
                     "card_id": "93a3a61d-fd59-11e6-9e3e-026d961c88e6", 
-                    "id": "972add0c-0f70-11e7-a809-6c4008b05c4c", 
                     "form_id": "b6a8ddae-053f-11e7-9e3e-026d961c88e6", 
-                    "sortorder": 0
+                    "id": "972add0c-0f70-11e7-a809-6c4008b05c4c"
                 }, 
                 {
+                    "sortorder": 0, 
                     "card_id": "b712af79-fd4d-11e6-9e3e-026d961c88e6", 
-                    "id": "a514179c-0f70-11e7-8261-6c4008b05c4c", 
                     "form_id": "52f5905e-053f-11e7-9e3e-026d961c88e6", 
-                    "sortorder": 0
+                    "id": "a514179c-0f70-11e7-8261-6c4008b05c4c"
                 }, 
                 {
+                    "sortorder": 1, 
                     "card_id": "da2ba5a3-053e-11e7-9e3e-026d961c88e6", 
-                    "id": "a514476e-0f70-11e7-b526-6c4008b05c4c", 
                     "form_id": "52f5905e-053f-11e7-9e3e-026d961c88e6", 
-                    "sortorder": 1
+                    "id": "a514476e-0f70-11e7-b526-6c4008b05c4c"
                 }, 
                 {
+                    "sortorder": 2, 
                     "card_id": "c31ba523-fd4d-11e6-9e3e-026d961c88e6", 
-                    "id": "a5146e87-0f70-11e7-b9e0-6c4008b05c4c", 
                     "form_id": "52f5905e-053f-11e7-9e3e-026d961c88e6", 
-                    "sortorder": 2
+                    "id": "a5146e87-0f70-11e7-b9e0-6c4008b05c4c"
                 }, 
                 {
+                    "sortorder": 3, 
                     "card_id": "78f4cb0f-fd61-11e6-9e3e-026d961c88e6", 
-                    "id": "a51498b8-0f70-11e7-9d52-6c4008b05c4c", 
                     "form_id": "52f5905e-053f-11e7-9e3e-026d961c88e6", 
-                    "sortorder": 3
+                    "id": "a51498b8-0f70-11e7-9d52-6c4008b05c4c"
                 }, 
                 {
+                    "sortorder": 0, 
                     "card_id": "2292af6d-fd55-11e6-9e3e-026d961c88e6", 
-                    "id": "b7064b3d-0f70-11e7-a712-6c4008b05c4c", 
                     "form_id": "98ce0264-053f-11e7-9e3e-026d961c88e6", 
-                    "sortorder": 0
+                    "id": "b7064b3d-0f70-11e7-a712-6c4008b05c4c"
                 }, 
                 {
+                    "sortorder": 0, 
                     "card_id": "e3df2e83-fd4d-11e6-9e3e-026d961c88e6", 
-                    "id": "cc1dbd2b-0f70-11e7-b885-6c4008b05c4c", 
                     "form_id": "9ffef0de-053f-11e7-9e3e-026d961c88e6", 
-                    "sortorder": 0
+                    "id": "cc1dbd2b-0f70-11e7-b885-6c4008b05c4c"
                 }
             ], 
             "relatable_resource_model_ids": [], 
             "reports": [
                 {
-                    "graph_id": "3af584c3-fd4d-11e6-9e3e-026d961c88e6", 
-                    "name": "Find Report", 
-                    "reportid": "d0a59c60-053f-11e7-9e3e-026d961c88e6", 
-                    "active": false, 
                     "formsconfig": {
                         "52f5905e-053f-11e7-9e3e-026d961c88e6": {
                             "active": true, 
@@ -396,21 +392,14 @@
                             "label": "Find Phasing"
                         }
                     }, 
+                    "name": "Find Report", 
+                    "reportid": "d0a59c60-053f-11e7-9e3e-026d961c88e6", 
+                    "active": false, 
+                    "graph_id": "3af584c3-fd4d-11e6-9e3e-026d961c88e6", 
                     "config": {
                         "bearing": 0, 
-                        "featurePointSize": 3, 
-                        "featureEditingDisabled": true, 
-                        "centerX": -122.3979693, 
-                        "pitch": 0, 
-                        "overlayOpacity": 0, 
-                        "featureColor": "#FF0000", 
                         "geocoderVisible": true, 
-                        "geocodeProvider": "10000000-0000-0000-0000-010000000000", 
-                        "zoom": 10, 
-                        "featureLineWidth": 1, 
-                        "geocodePlaceholder": "Search", 
-                        "minZoom": 0, 
-                        "overlayConfigs": [], 
+                        "featureEditingDisabled": true, 
                         "geometryTypes": [
                             {
                                 "text": "Point", 
@@ -425,8 +414,19 @@
                                 "id": "Polygon"
                             }
                         ], 
-                        "centerY": 37.79, 
+                        "geocodePlaceholder": "Search", 
+                        "overlayOpacity": 0, 
+                        "featurePointSize": 3, 
+                        "geocodeProvider": "10000000-0000-0000-0000-010000000000", 
+                        "zoom": 10, 
+                        "featureLineWidth": 1, 
+                        "featureColor": "#FF0000", 
+                        "minZoom": 0, 
+                        "overlayConfigs": [], 
+                        "centerX": -122.3979693, 
+                        "pitch": 0, 
                         "maxZoom": 20, 
+                        "centerY": 37.79, 
                         "basemap": "Light Streets", 
                         "mapControlsHidden": false
                     }, 
@@ -766,10 +766,10 @@
                     "config": {
                         "clusterMaxZoom": 5, 
                         "weight": 2, 
-                        "outlineWeight": 2, 
+                        "cacheTiles": false, 
                         "advancedStyle": "", 
                         "radius": 2, 
-                        "cacheTiles": false, 
+                        "outlineWeight": 2, 
                         "pointColor": "rgba(44,162,95,0.7)", 
                         "layerName": "HER FInds", 
                         "clusterDistance": 20, 
@@ -1334,7 +1334,7 @@
                     "nodegroup_id": null, 
                     "is_collector": false, 
                     "config": {
-                        "fillColor": "rgba(111,222,333,0.8)"
+                        "fillColor": "rgba(7,16,113,0.8)"
                     }, 
                     "parentproperty": "", 
                     "name": "Find"
@@ -1577,9 +1577,9 @@
             "description": "This resource model describes finds.", 
             "cards": [
                 {
-                    "helpenabled": false, 
                     "graph_id": "3af584c3-fd4d-11e6-9e3e-026d961c88e6", 
-                    "description": "", 
+                    "helpenabled": false, 
+                    "name": "Find Type", 
                     "visible": true, 
                     "nodegroup_id": "93a3a61e-fd59-11e6-9e3e-026d961c88e6", 
                     "helptext": null, 
@@ -1588,12 +1588,12 @@
                     "helptitle": null, 
                     "instructions": "This ties the find type with a particular cultural period or date range.", 
                     "active": true, 
-                    "name": "Find Type"
+                    "description": ""
                 }, 
                 {
-                    "helpenabled": false, 
                     "graph_id": "3af584c3-fd4d-11e6-9e3e-026d961c88e6", 
-                    "description": "Represents a single node in a graph", 
+                    "helpenabled": false, 
+                    "name": "Address", 
                     "visible": true, 
                     "nodegroup_id": "6b5d6a39-fd4d-11e6-9e3e-026d961c88e6", 
                     "helptext": null, 
@@ -1602,12 +1602,12 @@
                     "helptitle": null, 
                     "instructions": "Enter the address of the location.", 
                     "active": true, 
-                    "name": "Address"
+                    "description": "Represents a single node in a graph"
                 }, 
                 {
-                    "helpenabled": false, 
                     "graph_id": "3af584c3-fd4d-11e6-9e3e-026d961c88e6", 
-                    "description": "Represents a single node in a graph", 
+                    "helpenabled": false, 
+                    "name": "Description Location", 
                     "visible": true, 
                     "nodegroup_id": "6b5d6a3c-fd4d-11e6-9e3e-026d961c88e6", 
                     "helptext": null, 
@@ -1616,12 +1616,12 @@
                     "helptitle": null, 
                     "instructions": "Describe the location of the resource.", 
                     "active": true, 
-                    "name": "Description Location"
+                    "description": "Represents a single node in a graph"
                 }, 
                 {
-                    "helpenabled": false, 
                     "graph_id": "3af584c3-fd4d-11e6-9e3e-026d961c88e6", 
-                    "description": "Describes the type of resource. \n\nApplies to: Heritage Group, Heritage", 
+                    "helpenabled": false, 
+                    "name": "Location Type", 
                     "visible": true, 
                     "nodegroup_id": "6b5d6a2d-fd4d-11e6-9e3e-026d961c88e6", 
                     "helptext": null, 
@@ -1630,12 +1630,12 @@
                     "helptitle": null, 
                     "instructions": null, 
                     "active": true, 
-                    "name": "Location Type"
+                    "description": "Describes the type of resource. \n\nApplies to: Heritage Group, Heritage"
                 }, 
                 {
-                    "helpenabled": false, 
                     "graph_id": "3af584c3-fd4d-11e6-9e3e-026d961c88e6", 
-                    "description": "The name of a resource.\n\nApplies to Heritage Resource, Heritage Resource Group, Activity, and Historical Event.  Actors receive their \"names\" from the Appellation branch.", 
+                    "helpenabled": false, 
+                    "name": "Name", 
                     "visible": true, 
                     "nodegroup_id": "b712af77-fd4d-11e6-9e3e-026d961c88e6", 
                     "helptext": null, 
@@ -1644,12 +1644,12 @@
                     "helptitle": null, 
                     "instructions": "Enter the resource name and its respective type.", 
                     "active": true, 
-                    "name": "Name"
+                    "description": "The name of a resource.\n\nApplies to Heritage Resource, Heritage Resource Group, Activity, and Historical Event.  Actors receive their \"names\" from the Appellation branch."
                 }, 
                 {
-                    "helpenabled": false, 
                     "graph_id": "3af584c3-fd4d-11e6-9e3e-026d961c88e6", 
-                    "description": "Physical thing on a heritage resource. Connect to Heritage Resource E18 via P46", 
+                    "helpenabled": false, 
+                    "name": "Component", 
                     "visible": true, 
                     "nodegroup_id": "2d1d08c9-fd4f-11e6-9e3e-026d961c88e6", 
                     "helptext": null, 
@@ -1658,12 +1658,12 @@
                     "helptitle": null, 
                     "instructions": "Select the architectural component and the component's material and technique", 
                     "active": true, 
-                    "name": "Component"
+                    "description": "Physical thing on a heritage resource. Connect to Heritage Resource E18 via P46"
                 }, 
                 {
-                    "helpenabled": false, 
                     "graph_id": "3af584c3-fd4d-11e6-9e3e-026d961c88e6", 
-                    "description": "", 
+                    "helpenabled": false, 
+                    "name": "Recovery", 
                     "visible": true, 
                     "nodegroup_id": "78f4cb0d-fd61-11e6-9e3e-026d961c88e6", 
                     "helptext": null, 
@@ -1672,12 +1672,12 @@
                     "helptitle": null, 
                     "instructions": null, 
                     "active": true, 
-                    "name": "Recovery"
+                    "description": ""
                 }, 
                 {
-                    "helpenabled": false, 
                     "graph_id": "3af584c3-fd4d-11e6-9e3e-026d961c88e6", 
-                    "description": "Describes the conditions, threats, and disturbances affecting a Heritage Resource or Heritage Resource Group. Additional information may include a management recommendation, a condition image, the data the condition was assessed and a description of the condition.", 
+                    "helpenabled": false, 
+                    "name": "Condition Assessment", 
                     "visible": true, 
                     "nodegroup_id": "2292af6b-fd55-11e6-9e3e-026d961c88e6", 
                     "helptext": null, 
@@ -1686,12 +1686,12 @@
                     "helptitle": null, 
                     "instructions": "One assessment of condition at a particular point in time. ", 
                     "active": true, 
-                    "name": "Condition Assessment"
+                    "description": "Describes the conditions, threats, and disturbances affecting a Heritage Resource or Heritage Resource Group. Additional information may include a management recommendation, a condition image, the data the condition was assessed and a description of the condition."
                 }, 
                 {
-                    "helpenabled": false, 
                     "graph_id": "3af584c3-fd4d-11e6-9e3e-026d961c88e6", 
-                    "description": "The name of a resource.\n\nApplies to Heritage Resource, Heritage Resource Group, Activity, and Historical Event.  Actors receive their \"names\" from the Appellation branch.", 
+                    "helpenabled": false, 
+                    "name": "Place Name", 
                     "visible": true, 
                     "nodegroup_id": "6b5d6a36-fd4d-11e6-9e3e-026d961c88e6", 
                     "helptext": null, 
@@ -1700,12 +1700,12 @@
                     "helptitle": null, 
                     "instructions": "Enter the name of the location", 
                     "active": true, 
-                    "name": "Place Name"
+                    "description": "The name of a resource.\n\nApplies to Heritage Resource, Heritage Resource Group, Activity, and Historical Event.  Actors receive their \"names\" from the Appellation branch."
                 }, 
                 {
-                    "helpenabled": false, 
                     "graph_id": "3af584c3-fd4d-11e6-9e3e-026d961c88e6", 
-                    "description": "Describes the type of resource. \n\nApplies to: Heritage Group, Heritage", 
+                    "helpenabled": false, 
+                    "name": "HER Record Type", 
                     "visible": true, 
                     "nodegroup_id": "da2ba5a1-053e-11e7-9e3e-026d961c88e6", 
                     "helptext": null, 
@@ -1714,12 +1714,12 @@
                     "helptitle": null, 
                     "instructions": null, 
                     "active": true, 
-                    "name": "HER Record Type"
+                    "description": "Describes the type of resource. \n\nApplies to: Heritage Group, Heritage"
                 }, 
                 {
-                    "helpenabled": false, 
                     "graph_id": "3af584c3-fd4d-11e6-9e3e-026d961c88e6", 
-                    "description": "Describes the physical location of a heritage resource or heritage resource group.  Includes extra nodes for cadastral information.\n\nRelates to Heritage Resource E18 with P53\nRelates to Heritage Resource Group E27 with P89\n", 
+                    "helpenabled": false, 
+                    "name": "Location", 
                     "visible": true, 
                     "nodegroup_id": "6b5d6a33-fd4d-11e6-9e3e-026d961c88e6", 
                     "helptext": null, 
@@ -1728,12 +1728,12 @@
                     "helptitle": null, 
                     "instructions": null, 
                     "active": true, 
-                    "name": "Location"
+                    "description": "Describes the physical location of a heritage resource or heritage resource group.  Includes extra nodes for cadastral information.\n\nRelates to Heritage Resource E18 with P53\nRelates to Heritage Resource Group E27 with P89\n"
                 }, 
                 {
-                    "helpenabled": false, 
                     "graph_id": "3af584c3-fd4d-11e6-9e3e-026d961c88e6", 
-                    "description": "Used to hold identifiers necessary to link a given resource to records in an external (perhaps legacy) system.", 
+                    "helpenabled": false, 
+                    "name": "External Identifier", 
                     "visible": true, 
                     "nodegroup_id": "e3df2e81-fd4d-11e6-9e3e-026d961c88e6", 
                     "helptext": null, 
@@ -1742,12 +1742,12 @@
                     "helptitle": null, 
                     "instructions": "Enter information for identifiers of the resource from other external sources.", 
                     "active": true, 
-                    "name": "External Identifier"
+                    "description": "Used to hold identifiers necessary to link a given resource to records in an external (perhaps legacy) system."
                 }, 
                 {
-                    "helpenabled": false, 
                     "graph_id": "3af584c3-fd4d-11e6-9e3e-026d961c88e6", 
-                    "description": "Phase Type Assignments for Heritage Resource E18.\n\nConnects via P92i", 
+                    "helpenabled": false, 
+                    "name": "Find Phase Type", 
                     "visible": true, 
                     "nodegroup_id": "93a3a61b-fd59-11e6-9e3e-026d961c88e6", 
                     "helptext": null, 
@@ -1756,12 +1756,12 @@
                     "helptitle": null, 
                     "instructions": null, 
                     "active": true, 
-                    "name": "Find Phase Type"
+                    "description": "Phase Type Assignments for Heritage Resource E18.\n\nConnects via P92i"
                 }, 
                 {
-                    "helpenabled": false, 
                     "graph_id": "3af584c3-fd4d-11e6-9e3e-026d961c88e6", 
-                    "description": "Represents a single node in a graph", 
+                    "helpenabled": false, 
+                    "name": "Cadastral Reference", 
                     "visible": true, 
                     "nodegroup_id": "6b5d6a27-fd4d-11e6-9e3e-026d961c88e6", 
                     "helptext": null, 
@@ -1770,12 +1770,12 @@
                     "helptitle": null, 
                     "instructions": "Enter the cadastral reference number.", 
                     "active": true, 
-                    "name": "Cadastral Reference"
+                    "description": "Represents a single node in a graph"
                 }, 
                 {
-                    "helpenabled": false, 
                     "graph_id": "3af584c3-fd4d-11e6-9e3e-026d961c88e6", 
-                    "description": "The Measurement branch measures instances of a Heritage Resource E18 or a Heritage Resource Group E27\n\nRelates to those resource models via P39i", 
+                    "helpenabled": false, 
+                    "name": "Measurement", 
                     "visible": true, 
                     "nodegroup_id": "d61f087d-fd4f-11e6-9e3e-026d961c88e6", 
                     "helptext": null, 
@@ -1784,12 +1784,12 @@
                     "helptitle": null, 
                     "instructions": "Capture the measurements associated to this resource.", 
                     "active": true, 
-                    "name": "Measurement"
+                    "description": "The Measurement branch measures instances of a Heritage Resource E18 or a Heritage Resource Group E27\n\nRelates to those resource models via P39i"
                 }, 
                 {
-                    "helpenabled": false, 
                     "graph_id": "3af584c3-fd4d-11e6-9e3e-026d961c88e6", 
-                    "description": "Represents a single node in a graph", 
+                    "helpenabled": false, 
+                    "name": "Administration Subdivision", 
                     "visible": true, 
                     "nodegroup_id": "6b5d6a2a-fd4d-11e6-9e3e-026d961c88e6", 
                     "helptext": null, 
@@ -1798,12 +1798,12 @@
                     "helptitle": null, 
                     "instructions": "Select the administrative/governmental subdivision name and type.", 
                     "active": true, 
-                    "name": "Administration Subdivision"
+                    "description": "Represents a single node in a graph"
                 }, 
                 {
-                    "helpenabled": false, 
                     "graph_id": "3af584c3-fd4d-11e6-9e3e-026d961c88e6", 
-                    "description": "This branch contains both a description and the content of an inscription on a find. ", 
+                    "helpenabled": false, 
+                    "name": "Inscription", 
                     "visible": true, 
                     "nodegroup_id": "26243e3f-fd58-11e6-9e3e-026d961c88e6", 
                     "helptext": null, 
@@ -1812,12 +1812,12 @@
                     "helptitle": null, 
                     "instructions": null, 
                     "active": true, 
-                    "name": "Inscription"
+                    "description": "This branch contains both a description and the content of an inscription on a find. "
                 }, 
                 {
-                    "helpenabled": false, 
                     "graph_id": "3af584c3-fd4d-11e6-9e3e-026d961c88e6", 
-                    "description": "Start/End dates for resources.  Assumed to be typed and within calendar time. \n\nConnects to Activity (E7) and Historical Event (E5) resource models via P114\nConnects to Heritage Resource (E18) and Heritage Resource Group (E27) resource models via P12i\nConnects to Actor (E39) resource model via P11i", 
+                    "helpenabled": false, 
+                    "name": "Start and End Dates", 
                     "visible": true, 
                     "nodegroup_id": "c31ba521-fd4d-11e6-9e3e-026d961c88e6", 
                     "helptext": null, 
@@ -1826,12 +1826,12 @@
                     "helptitle": null, 
                     "instructions": "Record the start and end dates of the resource's existence.", 
                     "active": true, 
-                    "name": "Start and End Dates"
+                    "description": "Start/End dates for resources.  Assumed to be typed and within calendar time. \n\nConnects to Activity (E7) and Historical Event (E5) resource models via P114\nConnects to Heritage Resource (E18) and Heritage Resource Group (E27) resource models via P12i\nConnects to Actor (E39) resource model via P11i"
                 }, 
                 {
-                    "helpenabled": false, 
                     "graph_id": "3af584c3-fd4d-11e6-9e3e-026d961c88e6", 
-                    "description": "Represents a single node in a graph", 
+                    "helpenabled": false, 
+                    "name": "Spatial Location", 
                     "visible": true, 
                     "nodegroup_id": "6b5d6a30-fd4d-11e6-9e3e-026d961c88e6", 
                     "helptext": null, 
@@ -1840,12 +1840,12 @@
                     "helptitle": null, 
                     "instructions": "Define the spatial location.", 
                     "active": true, 
-                    "name": "Spatial Location"
+                    "description": "Represents a single node in a graph"
                 }, 
                 {
-                    "helpenabled": false, 
                     "graph_id": "3af584c3-fd4d-11e6-9e3e-026d961c88e6", 
-                    "description": "Generic branch for capturing free-form written descriptive information.\nIntended to be evolution from v3 description branch from HIP 3. Created semantic description node with description string and description type hanging off of it. Description (semantic node) becomes a grouping node (type and string).  \n\nThis branch meets technical business rules for CRM compliance but CRM experts have said that this is an inappropriate implementation of E62.\n\nConnects to all resources with P140i", 
+                    "helpenabled": false, 
+                    "name": "Description", 
                     "visible": true, 
                     "nodegroup_id": "ce6e367d-fd4d-11e6-9e3e-026d961c88e6", 
                     "helptext": null, 
@@ -1854,7 +1854,7 @@
                     "helptitle": null, 
                     "instructions": "Enter a description and description type for the resource.", 
                     "active": true, 
-                    "name": "Description"
+                    "description": "Generic branch for capturing free-form written descriptive information.\nIntended to be evolution from v3 description branch from HIP 3. Created semantic description node with description string and description type hanging off of it. Description (semantic node) becomes a grouping node (type and string).  \n\nThis branch meets technical business rules for CRM compliance but CRM experts have said that this is an inappropriate implementation of E62.\n\nConnects to all resources with P140i"
                 }
             ], 
             "edges": [
@@ -2466,30 +2466,30 @@
             "name": "HER Find Model", 
             "cards_x_nodes_x_widgets": [
                 {
+                    "widget_id": "10000000-0000-0000-0000-000000000005", 
                     "card_id": "ce6e367f-fd4d-11e6-9e3e-026d961c88e6", 
                     "label": "Description", 
                     "node_id": "ce6e3680-fd4d-11e6-9e3e-026d961c88e6", 
                     "sortorder": 0, 
-                    "id": "ce6e3683-fd4d-11e6-9e3e-026d961c88e6", 
                     "config": {
                         "width": "100%", 
                         "placeholder": "Enter text", 
                         "label": "Description"
                     }, 
-                    "widget_id": "10000000-0000-0000-0000-000000000005"
+                    "id": "ce6e3683-fd4d-11e6-9e3e-026d961c88e6"
                 }, 
                 {
+                    "widget_id": "10000000-0000-0000-0000-000000000002", 
                     "card_id": "ce6e367f-fd4d-11e6-9e3e-026d961c88e6", 
                     "label": "Description Type", 
                     "node_id": "ce6e3681-fd4d-11e6-9e3e-026d961c88e6", 
                     "sortorder": 1, 
-                    "id": "ce6e3682-fd4d-11e6-9e3e-026d961c88e6", 
                     "config": {
                         "placeholder": "Select a description type", 
                         "options": [], 
                         "label": "Description Type"
                     }, 
-                    "widget_id": "10000000-0000-0000-0000-000000000002"
+                    "id": "ce6e3682-fd4d-11e6-9e3e-026d961c88e6"
                 }
             ], 
             "resource_2_resource_constraints": [], 
@@ -2511,8 +2511,8 @@
     ], 
     "metadata": {
         "git hash": "4807fc1 2017-03-22 19:57:09 -0700", 
-        "db": "PostgreSQL 9.6.1 on x86_64-apple-darwin14.5.0, compiled by Apple LLVM version 7.0.0 (clang-700.1.76), 64-bit", 
         "os": "Darwin", 
+        "db": "PostgreSQL 9.6.1 on x86_64-apple-darwin14.5.0, compiled by Apple LLVM version 7.0.0 (clang-700.1.76), 64-bit", 
         "os version": "15.6.0"
     }
 }
