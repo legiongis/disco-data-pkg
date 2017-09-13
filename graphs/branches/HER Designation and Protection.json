@@ -3343,7 +3343,8 @@
                 "name": "Designation or Protection Event", 
                 "nodegroup_id": "dcaea9ba-fee2-11e6-9e3e-026d961c88e6", 
                 "nodeid": "dcaea9ba-fee2-11e6-9e3e-026d961c88e6", 
-                "ontologyclass": "E65_Creation"
+                "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E65_Creation", 
+                "parentproperty": ""
             }, 
             "subtitle": "Designation or protection resulting from HER Designation and Protection Activity", 
             "version": ""

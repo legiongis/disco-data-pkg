@@ -332,7 +332,8 @@
                 "name": "DISCO Project Summary", 
                 "nodegroup_id": "cd97721e-17b2-11e7-8c8c-6c4008b05c4c", 
                 "nodeid": "cd97721e-17b2-11e7-8c8c-6c4008b05c4c", 
-                "ontologyclass": "E7_Activity"
+                "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E7_Activity", 
+                "parentproperty": ""
             }, 
             "subtitle": "Project summary notes for DISCO projects", 
             "version": ""

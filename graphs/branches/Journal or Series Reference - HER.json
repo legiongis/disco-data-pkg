@@ -2331,7 +2331,8 @@
                 "name": "Journal or Series", 
                 "nodegroup_id": "5e072b0a-fa23-11e6-9e3e-026d961c88e6", 
                 "nodeid": "5e072b0a-fa23-11e6-9e3e-026d961c88e6", 
-                "ontologyclass": "E84_Information_Carrier"
+                "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E84_Information_Carrier", 
+                "parentproperty": ""
             }, 
             "subtitle": "This branch references the journal or series that a Source resource is part of", 
             "version": ""

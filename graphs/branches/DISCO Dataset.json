@@ -275,7 +275,8 @@
                 "name": "Dataset", 
                 "nodegroup_id": "d5e1bc0f-16f9-11e7-ba3d-6c4008b05c4c", 
                 "nodeid": "d5e1bc0f-16f9-11e7-ba3d-6c4008b05c4c", 
-                "ontologyclass": "D9_Data_Object"
+                "ontologyclass": "http://www.ics.forth.gr/isl/CRMdig/D9_Data_Object", 
+                "parentproperty": ""
             }, 
             "subtitle": "DISCO x/y files, charting", 
             "version": ""

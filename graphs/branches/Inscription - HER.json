@@ -1979,7 +1979,8 @@
                 "name": "Inscription", 
                 "nodegroup_id": "3c63bfe6-fd56-11e6-9e3e-026d961c88e6", 
                 "nodeid": "3c63bfe6-fd56-11e6-9e3e-026d961c88e6", 
-                "ontologyclass": "E34_Inscription"
+                "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E34_Inscription", 
+                "parentproperty": ""
             }, 
             "subtitle": "This branch describes inscriptions on finds.", 
             "version": ""

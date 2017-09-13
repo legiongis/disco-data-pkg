@@ -3720,7 +3720,8 @@
                 "name": "Recovery", 
                 "nodegroup_id": "6a164a56-fd5d-11e6-9e3e-026d961c88e6", 
                 "nodeid": "6a164a56-fd5d-11e6-9e3e-026d961c88e6", 
-                "ontologyclass": "S19_Encounter_Event"
+                "ontologyclass": "http://www.ics.forth.gr/isl/CRMsci/S19_Encounter_Event", 
+                "parentproperty": ""
             }, 
             "subtitle": "Describes find recovery method", 
             "version": ""
