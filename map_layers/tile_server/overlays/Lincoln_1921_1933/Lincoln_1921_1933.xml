@@ -1,0 +1,15 @@
+<Map background-color="transparent">
+	<Layer name="Lincoln 1921 to 1933">
+	    <StyleName>raster</StyleName>
+	    <Datasource>
+	        <Parameter name="type">gdal</Parameter>
+	        <Parameter name="file">Lincoln_1921_1933_transparent.tif</Parameter>
+            <Parameter name="nodata">0</Parameter>
+	    </Datasource>
+	</Layer>
+	<Style name="raster">
+	    <Rule name="rule 1">
+	        <RasterSymbolizer opacity="1.0" scaling="bilinear" mode="normal" />
+	    </Rule>
+	</Style>
+</Map>
