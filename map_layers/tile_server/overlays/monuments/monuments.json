@@ -20,7 +20,7 @@
                     "host": "localhost",
                     "user": "postgres",
                     "password": "postgis",
-                    "database": "aardvark",
+                    "database": "arches",
                     "port": "5432"
                 },
                 "simplify": 0.5,
