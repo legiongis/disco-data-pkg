@@ -1,0 +1,36 @@
+{
+    "type": "vector",
+    "layers": [{
+        "id": "monuments_listed_buildings",
+        "type": "circle",
+        "source": "monuments_listed_buildings",
+        "source-layer": "monuments_listed_buildings",
+        "layout": {
+            "visibility": "visible"
+        },
+        "paint": {
+            "circle-color": "#00ffff"
+        }
+    }],
+    "config": {
+        "provider": {
+            "class": "TileStache.Goodies.VecTiles:Provider",
+            "kwargs": {
+                "dbinfo": {
+                    "host": "localhost",
+                    "user": "postgres",
+                    "password": "postgis",
+                    "database": "arches",
+                    "port": "5432"
+                },
+                "simplify": 0.5,
+                "queries": [
+                    "select gid as __id__, st_asgeojson(geom) as geojson, st_transform(geom, 900913) as __geometry__ from vw_monuments"
+                ]
+            }
+        },
+        "allowed origin": "*",
+        "compress": true,
+        "write cache": false
+    }
+}
