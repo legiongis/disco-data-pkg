@@ -5,21 +5,6 @@
             "functions_x_graphs": [
                 {
                     "config": {
-                        "triggering_nodegroups": [
-                            "84e6407a-1a43-11e7-a2c5-6c4008b05c4c",
-                            "84e645ae-1a43-11e7-aa19-6c4008b05c4c",
-                            "1e5cd287-18ba-11e7-b3d1-6c4008b05c4c",
-                            "c69e99d1-18be-11e7-961b-6c4008b05c4c",
-                            "80acda3a-17c2-11e7-b6fa-6c4008b05c4c",
-                            "b966590f-1988-11e7-b3a1-6c4008b05c4c"
-                        ]
-                    },
-                    "function_id": "60000000-0000-0000-0000-000000000000",
-                    "graph_id": "d41008a1-17ae-11e7-8a22-6c4008b05c4c",
-                    "id": "dc910c26-1bd8-11e7-9142-6c4008b05c4c"
-                },
-                {
-                    "config": {
                         "map_popup": {
                             "nodegroup_id": "81483f59-17bf-11e7-8e6b-6c4008b05c4c",
                             "string_template": "<Project Summary Notes>"

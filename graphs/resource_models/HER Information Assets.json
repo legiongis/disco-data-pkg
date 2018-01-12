@@ -5,16 +5,6 @@
             "functions_x_graphs": [
                 {
                     "config": {
-                        "triggering_nodegroups": [
-                            "08448359-fa1f-11e6-9e3e-026d961c88e6"
-                        ]
-                    },
-                    "function_id": "60000000-0000-0000-0000-000000000000",
-                    "graph_id": "0844832e-fa1f-11e6-9e3e-026d961c88e6",
-                    "id": "689140eb-0f60-11e7-a9b5-6c4008b05c4c"
-                },
-                {
-                    "config": {
                         "map_popup": {
                             "nodegroup_id": "08448344-fa1f-11e6-9e3e-026d961c88e6",
                             "string_template": "<Description>"
@@ -2791,7 +2781,7 @@
             "root": {
                 "graph_id": "0844832e-fa1f-11e6-9e3e-026d961c88e6",
                 "description": "",
-                "datatype": "semantic", 
+                "datatype": "semantic",
                 "nodeid": "0844836f-fa1f-11e6-9e3e-026d961c88e6",
                 "istopnode": true,
                 "nodegroup_id": null,
