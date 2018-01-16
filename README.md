@@ -1,4 +1,4 @@
-# disco_data
+# disco-data-pkg
 
 ## options
 ```
