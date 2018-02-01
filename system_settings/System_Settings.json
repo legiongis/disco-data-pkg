@@ -34,7 +34,7 @@
                     }, 
                     {
                         "data": {
-                            "c5a2b94a-fadd-11e6-a029-6c4008b05c4c": "Arches", 
+                            "c5a2b94a-fadd-11e6-a029-6c4008b05c4c": "ISTAR", 
                             "c5a2bdb3-fadd-11e6-8c96-6c4008b05c4c": "ETL", 
                             "c5a2b1dc-fadd-11e6-a726-6c4008b05c4c": null
                         }, 
@@ -156,7 +156,7 @@
                                     "size": 3132869
                                 }
                             ], 
-                            "feb9623d-fa14-11e6-a9c3-6c4008b05c4c": "<p>Protected Buildings in Lincoln</p>\n", 
+                            "feb9623d-fa14-11e6-a9c3-6c4008b05c4c": "Protected Buildings in Lincoln\n", 
                             "feb96126-fa14-11e6-9f19-6c4008b05c4c": "Grade I Listed Buildings"
                         }, 
                         "parenttile_id": null, 
@@ -184,7 +184,7 @@
                                     "size": 221064
                                 }
                             ], 
-                            "feb9623d-fa14-11e6-a9c3-6c4008b05c4c": "<p>Places to drink!</p>\n", 
+                            "feb9623d-fa14-11e6-a9c3-6c4008b05c4c": "Places to drink!\n", 
                             "feb96126-fa14-11e6-9f19-6c4008b05c4c": "Public Houses"
                         }, 
                         "parenttile_id": null, 
