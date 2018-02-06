@@ -4,7 +4,6 @@ VALUES
 
 
 SET CLIENT_ENCODING TO UTF8;
-SET STANDARD_CONFORMING_STRINGS TO ON;
 BEGIN;
 CREATE TABLE "lincoln_sites" (gid serial,
 "id" numeric(10,0),
