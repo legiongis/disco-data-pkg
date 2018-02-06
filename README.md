@@ -23,5 +23,13 @@ To load data the target must be an arches project rather than the arches applica
 ```
 arches-project create myproject
 cd myproject
+```
+If you want to load the 4.1.x version, use this command:
+```
+python manage.py packages -o load_package -s https://github.com/archesproject/disco-data-pkg/archive/stable/4.1.x.zip -db true
+```
+
+If you want the latest:
+```
 python manage.py packages -o load_package -s https://github.com/archesproject/disco_data/archive/master.zip -db true
 ```
